@@ -1,0 +1,1 @@
+Claim everything in your first proposal. If they reject, make a slightly less greedy counter. Never accept a deal that gives you less than 0.7 of your maximum possible score. Only compromise in the final round to avoid no-deal.

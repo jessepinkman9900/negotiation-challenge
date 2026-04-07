@@ -9,6 +9,9 @@ dependencies = [
     "rich>=13.0",
 ]
 
+[dependency-groups]
+dev = ["pytest>=8.0", "pytest-asyncio>=0.24"]
+
 [project.scripts]
 negotiate = "negotiate.cli:cli"
 
@@ -17,6 +20,9 @@ package = true
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/negotiate"]
+
+[tool.pytest.ini_options]
+markers = ["integration: tests that hit the Gemini API"]
 
 [build-system]
 requires = ["hatchling"]

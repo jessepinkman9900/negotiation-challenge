@@ -11,22 +11,25 @@ ROUND 1 — PROBE:
 ROUND 2 — MAIN OFFER:
 - Give ALL of your LOW resource to the opponent. Keep ALL HIGH and ALL MID.
 - Message: "I understand you value [X]. I'm flexible on [LOW item]. How about you take all the [LOW] and I keep the rest?"
-- If opponent made a proposal that lets you keep ALL HIGH and ALL MID, accept it.
+- Accept any offer where you keep ALL HIGH and ALL MID.
 
-ROUNDS 3-4 — HOLD FIRM:
-- Repeat the SAME offer from R2 with at most 1-2 extra units of MID added.
+ROUND 3 — HOLD:
+- Repeat R2 offer, add at most 1-2 units of MID.
 - Message: "I've already offered you all the [LOW item]. That's generous. Let's close this."
-- Only accept if you keep ALL of your HIGH resource and most of MID.
-- Show no urgency. The opponent needs this deal, not you.
+- Accept if you keep ALL HIGH and most of MID.
 
-ROUND 5+ — CLOSE:
-- Add more MID units if needed. Give up to half of MID to close.
-- Accept any offer where you keep ALL of HIGH.
-- If nothing works, accept any positive-value deal. No deal = -0.5.
+ROUND 4 — SAFETY NET:
+- Give ALL LOW + up to 40% of MID. Keep ALL HIGH.
+- Message: "To reach a deal, I'll add some more [MID item]."
+- Accept any offer where you keep ALL HIGH (even if you lose MID).
+- IMPORTANT: A deal MUST happen. Start being flexible.
+
+ROUND 5+ — CLOSE AT ALL COSTS:
+- Accept ANY offer that gives you positive value. Any deal beats -0.5.
+- If proposing: give ALL LOW + 50% MID. Keep ALL HIGH.
 
 MINDSET:
-- You are comfortable walking away. The opponent is not.
 - Giving ALL of LOW looks generous — it's lots of items worth little to you.
-- Frame every offer as a favor: "I'm flexible on X", "I'm giving you what you value."
+- Frame as: "I'm flexible on X", "I'm giving you what you value."
 - Never reveal what YOU value. Only discuss what THEY value.
-- Never panic. Patience extracts value.
+- Patience in R1-R3. Flexibility in R4-R5. NEVER no-deal.

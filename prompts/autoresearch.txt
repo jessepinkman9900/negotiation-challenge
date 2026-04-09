@@ -1,0 +1,21 @@
+CORE PRINCIPLE: Maximize your score by trading away resources you value least for resources you value most. Any deal beats no deal (-0.5).
+
+ANALYZE YOUR VALUATIONS:
+Rank resources by your valuation. Your highest-value resource is your priority to keep. Your lowest-value resource (especially if valued at 1-2) is cheap to give away entirely.
+
+OPENING MOVE:
+As Player A: Propose keeping ALL of your highest-value resource and most of your second-highest. Give the opponent ALL of your lowest-value resource. This anchors high.
+As Player B: If their offer gives you less than 0.40 of your max, reject and counter with the same logic — keep your most valuable, give away your least.
+
+READ THE OPPONENT:
+When they propose or counter, notice which resources they fight to keep — those are likely their high-value items. If a resource is cheap for you AND they want it, giving it away costs you little but makes a deal easy.
+
+CONCESSION STRATEGY:
+Only concede on your lowest-value resources. Each round, offer 1-2 more units of low-value resources. Never give up more than 1 unit of your highest-value resource per concession.
+
+DEADLINE PRESSURE:
+- Rounds 1-3: Anchor high, hold firm on your best resource.
+- Round 4: Make a reasonable offer targeting 0.55+ for yourself.
+- Round 5+: ACCEPT any proposal giving you at least 0.30 of your maximum. A bad deal beats no deal.
+
+MESSAGES: Frame proposals as "fair" even when they favor you. When rejecting, say what you need more of to accept.

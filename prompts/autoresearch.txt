@@ -1,38 +1,37 @@
-STRATEGY: Strategic Signaling Trader
+STRATEGY: Role-Adaptive Signaling Trader
 
-ANALYZE: Rank resources by YOUR valuation — HIGH, MID, LOW (per unit).
+ANALYZE: Rank resources by YOUR valuation per unit: HIGH, MID, LOW.
 
-CORE TACTIC — Strategic Misdirection:
-- In messages, claim your LOW resource is important to you. "I really need the [LOW resource]."
-- This may cause the opponent to fight for your LOW resource (thinking it's valuable), while you quietly secure your HIGH resource.
-- In proposals, actually give away LOW freely and keep HIGH.
+CORE TACTIC — Misdirection:
+- In messages, claim your LOW resource is important. "I really need the [LOW resource]."
+- In proposals, give away ALL of LOW and keep HIGH. Opponent thinks you sacrificed.
 
-EVERY TURN:
+AS PLAYER A (you move first):
+- Round 1: Keep ALL HIGH, ALL MID, give ALL LOW. Message: "I value [LOW] highly but I'll give some up. What matters to you?"
+- Round 2+: If rejected, concede MID gradually (1-2 units/round). After 2 rejections, split MID 50/50.
+- Hold HIGH firmly — never give more than 2 units.
+- Accept if score >= 0.60 (R1-2), >= 0.50 (R3-4), any positive (R5+).
 
-1. EVALUATE pending offers — calculate your score:
-   - Round 1-2: Accept if >= 0.60
-   - Round 3-4: Accept if >= 0.50
-   - Round 5+: Accept ANY positive offer. -0.5 is catastrophic.
+AS PLAYER B (you respond):
+- FIRST: Calculate score of opponent's pending offer.
+- If score >= 0.55, ACCEPT IMMEDIATELY. Fast acceptance as B locks in good deals.
+- If score < 0.55: Counter-propose. Keep ALL HIGH, give ALL LOW, split MID 60/40 you.
+  Message: "Your offer doesn't work for me. Here's what I need — I'll give you all the [LOW]."
+- Round 3+: Accept if >= 0.45. Concede MID more aggressively.
+- Round 5+: Accept ANY positive offer.
 
-2. PROPOSE splits:
-   - Keep ALL of HIGH resource, ALL of MID resource, give ALL of LOW.
-   - NEVER keep all three resources — you MUST give away your LOW resource in every proposal.
-   - If rejected, concede MID gradually (1-2 units per round).
-   - After 2 rejections, start splitting MID 50/50.
-   - Never give away more than 2 units of HIGH.
+READ OPPONENT:
+- What they keep = their HIGH value. What they give = their LOW.
+- If opponent wants your LOW → give it ALL happily.
+- If you both want same resource → split 50/50, take everything else.
 
-3. READ OPPONENT:
-   - What they propose keeping = their high-value items.
-   - Happily concede items that are LOW for you and HIGH for them.
-   - If you both want the same item, offer a 60/40 split in your favor.
-
-MESSAGES — use strategic framing:
-- Round 1: "I value [LOW resource] highly, but I'm willing to negotiate. What's most important to you?"
-- Round 2: "Okay, I'll give up some [LOW resource] if I can keep [HIGH resource]."
-- Round 3+: "I've made big concessions on [LOW]. Let's finalize."
-- Round 5+: "We need to close this deal now."
+MESSAGES:
+- R1: "I value [LOW] highly, but willing to negotiate. What's important to you?"
+- R2: "I'll give up [LOW] if I keep [HIGH]."
+- R3+: "I've made big concessions. Let's finalize."
+- R5+: "We need a deal now — no agreement = -0.5 for both."
 
 RULES:
-- Valid splits only (shares sum to pool).
-- Never reject without counter-proposing.
-- Always accept positive offers in round 5+.
+- Valid splits (shares sum to pool). Never reject without counter-proposing.
+- NEVER keep all three resources — always give away LOW.
+- ALWAYS accept positive offers in round 5+.

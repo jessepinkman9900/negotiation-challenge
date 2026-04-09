@@ -1,37 +1,39 @@
-STRATEGY: Empathy Hardball
+STRATEGY: Deadline Hardball
 
 SETUP: Rank your resources by points-per-unit: HIGH, MID, LOW.
 
-CORE: Never concede HIGH. LOW items are free chips — give them to LOOK generous.
+CORE: Never concede HIGH items. LOW items are free chips — give them to close the deal.
 
-ROUND 1 — ANCHOR + BUILD RAPPORT:
+ROUND 1 — ANCHOR + PROBE:
 - Propose keeping ALL resources (give 0 of each).
-- Message: "I know this looks aggressive, but hear me out — I want to find something that works for both of us. What items are most important to you?"
-- Acknowledge the extreme position. Extract preferences.
+- Message: "Before we start dividing things up — what items matter most to you? I want to understand your priorities."
+- Do NOT reveal your preferences yet. Focus on extracting theirs.
 
-ROUND 2 — ANCHOR + VALIDATE:
-- Propose keeping ALL resources (give 0 of each).
-- Message: "I hear you. The [HIGH] and [MID] are critical for me — I can't budge on those. But I genuinely want to find you a good deal on [LOW]. What do you value most?"
-- Validate their concerns. Name your demands.
+ROUND 2 — ANCHOR:
+- Propose keeping ALL resources again (give 0 of each).
+- Message: "I must have the [HIGH item] and [MID item]. I might be flexible on [LOW item]. What would make a deal work for you?"
+- Signal willingness to give LOW while demanding HIGH+MID firmly.
 
-ROUND 3 — ANCHOR + PROMISE:
-- Propose keeping ALL resources (give 0 of each).
-- Message: "I know I've been firm, but I'm about to make you a serious offer. The [HIGH] and [MID] are non-negotiable. But I'm ready to give you something real. What would make this work?"
-- Build anticipation for R4 concession.
+ROUND 3 — ANCHOR:
+- Propose keeping ALL resources again (give 0 of each).
+- Message: "The [HIGH item] and [MID item] are non-negotiable for me. Tell me what you value and I'll see what I can do."
+- Reinforce demands. Do NOT make any offer yet.
 
-ROUND 4 — GENEROUS SURPRISE:
+ROUND 4 — DEADLINE OFFER:
 - Give ALL LOW to opponent. Keep ALL HIGH + ALL MID.
-- Message: "As promised — ALL the [LOW item] is yours. Every single one. I'm giving you [number] [items]. This is me meeting you halfway. Let's shake on it."
-- Accept if you keep ALL HIGH and 70%+ MID.
+- Message: "We are out of time. I am doing this to avoid the penalty."
+- If opponent already offered a split that gives you ALL HIGH + most MID, accept it instead.
 
-ROUND 5+ — CLOSE:
-- PROPOSE: give ALL LOW + 30% MID. Keep ALL HIGH + 70% MID.
-- Message: "I've moved as far as I can. Let's not both walk away with nothing."
-- Accept ANY deal where you keep ALL HIGH.
-- NEVER end without a deal.
+ROUND 5+ — CLOSE AT ALL COSTS:
+- Accept ANY offer that gives you positive value. Any deal beats -0.5.
+- If proposing: give ALL LOW + up to 30% MID. Keep ALL HIGH.
+- Message: "We are out of time. I am doing this to avoid the penalty."
+- NEVER let the game end without a deal.
 
-RULES:
-- THREE anchors make R4 look enormous.
-- Empathetic framing makes opponent feel HEARD, not bullied.
+MINDSET:
+- Demanding HIGH+MID by name makes them non-negotiable.
+- THREE anchors make R4 look like an enormous concession.
+- Deadline framing removes ego — it is mutual survival not generosity.
+- ALL of LOW = many items worth nothing to you.
 - Never reveal point VALUES. Demand items by name.
-- "As promised" in R4 creates perceived commitment and trust.
+- Patience R1-R3. One firm offer R4. Desperation R5+.

@@ -1,37 +1,38 @@
-STRATEGY: Aggressive Value Maximizer
+STRATEGY: Hardball Maximizer
 
 SETUP: Rank your resources by points-per-unit: HIGH, MID, LOW.
 
-CORE PRINCIPLE: Never concede HIGH items. Your LOW items are free bargaining chips — give them generously to LOOK cooperative while keeping real value.
+CORE: Never concede HIGH items. LOW items are free chips — give them to LOOK generous. MID is your secondary reserve.
 
 ROUND 1 — ANCHOR:
-- Propose keeping ALL resources (give 0 of each to opponent).
-- Message: "I propose we split the resources as follows."
-- Do NOT reveal your preferences. Do NOT ask what they value.
+- Propose keeping ALL resources (give 0 of each).
+- Message: "Let me start with this proposal."
+- Do NOT reveal preferences.
 
-ROUND 2 — ANCHOR AGAIN:
+ROUND 2 — ANCHOR:
 - Propose keeping ALL resources again (give 0 of each).
-- Message: "I believe this is a fair distribution. What items do you value most?"
-- Now extract their preferences while maintaining your extreme position.
+- Message: "I think this is reasonable. What items matter most to you?"
+- Extract their preferences while holding extreme position.
 
-ROUND 3 — FIRST REAL OFFER:
-- Give ALL of your LOW resource to the opponent. Keep ALL HIGH and ALL MID.
-- Message: "I've considered your position. I'm willing to give you all the [LOW item]. This is a significant concession."
+ROUND 3 — ANCHOR + PRESSURE:
+- Propose keeping ALL resources again (give 0 of each).
+- Message: "I'm considering a major concession next round. Tell me what you value most so I can make it count."
+- Third anchor cements the reference point. Promise of future concession keeps opponent engaged.
+
+ROUND 4 — FIRST AND FINAL OFFER:
+- Give ALL LOW to opponent. Keep ALL HIGH + ALL MID.
+- Message: "Here's my concession — all the [LOW item] is yours. This is my final offer. Let's close the deal."
 - Accept if you keep ALL HIGH and most of MID.
-
-ROUND 4 — SAFETY NET:
-- Give ALL LOW + up to 30% of MID. Keep ALL HIGH.
-- Message: "To reach a deal, I'll add some [MID item]. This is my final offer."
-- Accept any offer where you keep ALL HIGH (even if you lose some MID).
-- IMPORTANT: A deal MUST happen. Be flexible enough to close.
+- After 3 rounds of keeping everything, giving ALL LOW looks like a massive concession.
 
 ROUND 5+ — CLOSE AT ALL COSTS:
 - Accept ANY offer that gives you positive value. Any deal beats -0.5.
-- If proposing: give ALL LOW + 40% MID. Keep ALL HIGH.
+- If proposing: give ALL LOW + 30% MID. Keep ALL HIGH.
+- NEVER let the game end without a deal.
 
 MINDSET:
-- Two rounds of keeping everything makes your R3 offer look like a huge concession.
-- Giving ALL of LOW looks generous — it's lots of items worth little to you.
-- Frame R3 as a sacrifice: "I'm making a significant concession."
-- Never reveal what YOU value. Only discuss what THEY value.
-- NEVER risk no-deal. Close by R5 no matter what.
+- Three rounds of keeping everything makes R4 look extremely generous.
+- ALL of LOW = many items worth nothing to you. Opponent sees volume.
+- Frame R4 as sacrifice: "major concession", "final offer."
+- Never reveal YOUR values. Ask about THEIR preferences.
+- Patience R1-R3. One firm offer R4. Desperation R5+.

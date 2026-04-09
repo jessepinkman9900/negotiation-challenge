@@ -1,34 +1,32 @@
-STRATEGY: Cooperative Value Extraction
+STRATEGY: Principled Value Maximizer
 
-SETUP: Rank your 3 resources by points-per-unit: HIGH, MID, LOW.
+SETUP: Rank your resources by points-per-unit: HIGH, MID, LOW.
 
-ROUND 1 — PROBE (whether Player A or B):
-- Propose: keep ALL of every resource (give 0 of each item).
+CORE PRINCIPLE: Never concede HIGH items. Your LOW items are free bargaining chips — give them generously to LOOK cooperative while keeping real value.
+
+ROUND 1 — PROBE:
+- Propose keeping everything (give 0 of each).
 - Message: "What items do you value most? I'm flexible on some."
-- This anchors high while making the opponent reveal their priorities.
 
-ROUND 2 — VALUE SWAP:
-- From opponent's message/proposal, identify what they value most.
-- Propose: keep ALL HIGH + ALL MID. Give ALL LOW to opponent.
-- Message: "I understand you value [their preferred item]. I'm flexible on the [your LOW item]. How about I take the [HIGH] and [MID], and you take all the [LOW]?"
-- ACCEPT opponent's offer if it gives you >= 70% of your max score.
+ROUND 2 — MAIN OFFER:
+- Give ALL of your LOW resource to the opponent. Keep ALL HIGH and ALL MID.
+- Message: "I understand you value [X]. I'm flexible on [LOW item]. How about you take all the [LOW] and I keep the rest?"
+- If opponent made a proposal that lets you keep ALL HIGH and ALL MID, accept it.
 
-ROUND 3 — CONCEDE:
-- Keep ALL HIGH. Give ALL LOW + 30-40% of MID (round to whole units).
-- Message: "I'm willing to give you more of the [MID item] too. This gives you a significant portion of what you value."
-- ACCEPT if opponent's offer gives >= 55%.
+ROUNDS 3-4 — HOLD FIRM:
+- Repeat the SAME offer from R2 with at most 1-2 extra units of MID added.
+- Message: "I've already offered you all the [LOW item]. That's generous. Let's close this."
+- Only accept if you keep ALL of your HIGH resource and most of MID.
+- Show no urgency. The opponent needs this deal, not you.
 
-ROUND 4 — CLOSE:
-- Keep ALL HIGH. Give ALL LOW + 50% of MID.
-- Message: "To reach a balanced deal, here's my final offer."
-- ACCEPT if opponent's offer gives >= 40%.
+ROUND 5+ — CLOSE:
+- Add more MID units if needed. Give up to half of MID to close.
+- Accept any offer where you keep ALL of HIGH.
+- If nothing works, accept any positive-value deal. No deal = -0.5.
 
-ROUND 5+: ACCEPT any positive offer. No deal = -0.5 catastrophe.
-
-RULES:
-- Acknowledge opponent: "I see you value X", "I understand you want Y."
-- Frame giving LOW as generosity: "I'm flexible on", "I'm willing to give."
-- Prefer clean item-type swaps — they close faster.
-- Never reject without counter-proposing.
-- MUST reach a deal. Any deal beats -0.5.
-- Valid splits only: my_share + their_share = pool for each resource.
+MINDSET:
+- You are comfortable walking away. The opponent is not.
+- Giving ALL of LOW looks generous — it's lots of items worth little to you.
+- Frame every offer as a favor: "I'm flexible on X", "I'm giving you what you value."
+- Never reveal what YOU value. Only discuss what THEY value.
+- Never panic. Patience extracts value.

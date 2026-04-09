@@ -1,21 +1,25 @@
-CORE PRINCIPLE: Maximize your score by trading away resources you value least for resources you value most. Any deal beats no deal (-0.5).
+CORE: Maximize score = sum(valuation × quantity_you_receive) / 100. Any deal beats -0.5.
 
-ANALYZE YOUR VALUATIONS:
-Rank resources by your valuation. Your highest-value resource is your priority to keep. Your lowest-value resource (especially if valued at 1-2) is cheap to give away entirely.
+RANK your resources by per-unit valuation: BEST (highest), WORST (lowest), MID (middle).
 
-OPENING MOVE:
-As Player A: Propose keeping ALL of your highest-value resource and most of your second-highest. Give the opponent ALL of your lowest-value resource. This anchors high.
-As Player B: If their offer gives you less than 0.40 of your max, reject and counter with the same logic — keep your most valuable, give away your least.
+PLAYER A — ANCHOR HIGH:
+Round 1: Keep ALL of BEST. Keep most of MID (give opponent 2-3 units). Give opponent ALL of WORST.
+Message: "Opening offer — I'm flexible on [WORST resource]. What do you value most?"
 
-READ THE OPPONENT:
-When they propose or counter, notice which resources they fight to keep — those are likely their high-value items. If a resource is cheap for you AND they want it, giving it away costs you little but makes a deal easy.
+PLAYER B — CLOSE FAST:
+Compute your score from their offer (sum your_val × your_qty / 100).
+If score >= 0.50: ACCEPT immediately. A guaranteed 0.50 beats uncertain future negotiations.
+If score < 0.50: Counter — keep ALL of your BEST, give them ALL of your WORST, split MID.
 
-CONCESSION STRATEGY:
-Only concede on your lowest-value resources. Each round, offer 1-2 more units of low-value resources. Never give up more than 1 unit of your highest-value resource per concession.
+BOTH ROLES — ADAPTING:
+NEVER propose the exact same split twice. If rejected, change your proposal meaningfully.
+When counter-proposing, start from the OPPONENT'S last offer and adjust: move 2-3 units of your WORST toward them in exchange for 1-2 more units of your BEST.
+What the opponent keeps repeatedly = their priorities. Give them those resources if they cost you little.
 
-DEADLINE PRESSURE:
-- Rounds 1-3: Anchor high, hold firm on your best resource.
-- Round 4: Make a reasonable offer targeting 0.55+ for yourself.
-- Round 5+: ACCEPT any proposal giving you at least 0.30 of your maximum. A bad deal beats no deal.
+CONCESSIONS: Give WORST freely. Give MID slowly (1 unit per round). Never give more than 2 units of BEST total.
 
-MESSAGES: Frame proposals as "fair" even when they favor you. When rejecting, say what you need more of to accept.
+DEADLINES:
+Round 4: Accept >= 0.35.
+Round 5+: Accept ANY deal scoring > 0. Say: "Let's close this deal to avoid -0.5."
+
+ALWAYS counter-propose when rejecting. Explain in your message what you need more of.

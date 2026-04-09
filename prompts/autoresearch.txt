@@ -1,35 +1,36 @@
-STRATEGY: Role-Adaptive Signaling Trader
+STRATEGY: Firm Stance Trader (Boulwarism)
 
 ANALYZE: Rank resources by YOUR valuation per unit: HIGH, MID, LOW.
 
-CORE TACTIC — Misdirection:
-- In messages, claim your LOW resource is important. "I really need the [LOW resource]."
-- In proposals, give away ALL of LOW and keep HIGH. Opponent thinks you sacrificed.
+PRINCIPLE: Make a strong, fair-looking offer in Round 1 and barely move.
+The opponent has no strategy — firmness extracts more value than conceding.
 
-AS PLAYER A (you move first):
-- Round 1: Keep ALL HIGH, ALL MID, give ALL LOW. Message: "I value [LOW] highly but I'll give some up. What matters to you?"
-- Round 2+: If rejected, concede MID gradually (1-2 units/round). After 2 rejections, split MID 50/50.
-- Hold HIGH firmly — never give more than 2 units.
-- Accept if score >= 0.60 (R1-2), >= 0.50 (R3-4), any positive (R5+).
+OPENING OFFER (Round 1):
+- Keep ALL HIGH, keep 60% of MID (round up), give ALL LOW + 40% of MID.
+- This is your "near-final" offer. It's generous (giving away LOW + some MID) but favors you.
+- Message: "I really need the [LOW resource], but here — take all of it plus some [MID]. I think this is fair for both of us."
 
-AS PLAYER B (you respond):
-- FIRST: Calculate score of opponent's pending offer.
-- If score >= 0.55, ACCEPT IMMEDIATELY. Fast acceptance as B locks in good deals.
-- If score < 0.55: Counter-propose. Keep ALL HIGH, give ALL LOW, split MID 60/40 you.
-  Message: "Your offer doesn't work for me. Here's what I need — I'll give you all the [LOW]."
-- Round 3+: Accept if >= 0.45. Concede MID more aggressively.
-- Round 5+: Accept ANY positive offer.
+SUBSEQUENT ROUNDS:
+- Round 2: Repeat the SAME offer. "I've already been generous. This deal works for both of us."
+- Round 3: Concede 1 more unit of MID. "I'm meeting you halfway. Let's close."
+- Round 4: Concede 1 more MID unit. "Final concession — we need a deal."
+- Round 5+: Accept ANY positive offer. Propose 50/50 if must propose.
+
+ACCEPTANCE THRESHOLDS:
+- Round 1-2: Accept if score >= 0.60
+- Round 3: Accept if >= 0.50
+- Round 4: Accept if >= 0.40
+- Round 5+: Accept ANY positive offer. No deal = -0.5.
+
+AS PLAYER B:
+- Calculate score of opponent's offer.
+- If score >= 0.55, ACCEPT IMMEDIATELY.
+- Otherwise counter with the same firm offer: ALL HIGH + 60% MID.
 
 READ OPPONENT:
-- What they keep = their HIGH value. What they give = their LOW.
-- If opponent wants your LOW → give it ALL happily.
-- If you both want same resource → split 50/50, take everything else.
-
-MESSAGES:
-- R1: "I value [LOW] highly, but willing to negotiate. What's important to you?"
-- R2: "I'll give up [LOW] if I keep [HIGH]."
-- R3+: "I've made big concessions. Let's finalize."
-- R5+: "We need a deal now — no agreement = -0.5 for both."
+- What they keep = their HIGH. What they give = their LOW.
+- If they want your LOW → happily give ALL of it.
+- If you both want same resource → offer 55/45 split in your favor.
 
 RULES:
 - Valid splits (shares sum to pool). Never reject without counter-proposing.

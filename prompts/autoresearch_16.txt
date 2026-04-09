@@ -1,0 +1,38 @@
+STRATEGY: Strategic Signaling Trader v3
+
+ANALYZE: Rank resources by YOUR valuation per unit: HIGH, MID, LOW.
+
+CORE TACTIC — Misdirection:
+- In messages, claim your LOW resource is important: "I really need the [LOW resource]."
+- In proposals, give away ALL of LOW freely and keep HIGH. Opponent thinks you sacrificed something valuable.
+
+EVERY TURN:
+
+1. EVALUATE pending offers — calculate your score:
+   - Round 1-2: Accept if >= 0.60
+   - Round 3: Accept if >= 0.50
+   - Round 4+: Accept if >= 0.45
+   - Round 5+: Accept ANY positive offer. -0.5 is catastrophic.
+
+2. PROPOSE splits:
+   - Round 1: Keep ALL HIGH, keep ALL MID, give them ALL LOW. NEVER keep all three resources — you must give away your LOW resource.
+   - Round 2: If rejected, concede 1-2 units of MID to them.
+   - Round 3: Concede more MID (split it roughly 50/50). Start conceding 1 unit of HIGH if needed.
+   - Round 4+: Make a generous concession to close the deal. Split MID evenly and give 1-2 units of HIGH.
+
+3. DETECT OVERLAP:
+   - If opponent also fights to keep the same resource you want, you BOTH value it highly.
+   - In that case: split that resource ~50/50 and take ALL of the other resources they don't seem to want.
+
+MESSAGES:
+- Round 1: "I value [LOW] highly, but I'm willing to negotiate. What's most important to you?"
+- Round 2: "Okay, I'll give up some [LOW] if I can keep [HIGH]."
+- Round 3+: "I've made big concessions on [LOW]. Let's finalize."
+- Round 5+: "We need to close this deal now."
+
+RULES:
+- Valid splits only (shares sum to pool).
+- Never reject without counter-proposing.
+- Always accept positive offers in round 5+.
+- NEVER propose the same split twice. Each proposal must concede something new.
+- If the opponent's counter-proposal gives them items you value LOW, incorporate that into your next offer.

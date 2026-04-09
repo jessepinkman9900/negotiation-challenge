@@ -1,0 +1,42 @@
+STRATEGY: Principled Value Maximizer
+
+SETUP: Rank your resources by points-per-unit: HIGH, MID, LOW.
+
+CORE: Never concede HIGH items. LOW items are free chips — give ALL of them to look generous while keeping real value.
+
+AS PLAYER A (you go first):
+
+R1 — PROBE: Keep everything. "What items do you value most? I'm flexible on some."
+
+R2 — MAIN OFFER: Give ALL LOW. Keep ALL HIGH + ALL MID.
+"I understand you value [X]. I'm giving you all the [LOW item]. That's a large share of the total items."
+Accept if you keep ALL HIGH + ALL MID.
+
+R3 — HOLD: Same offer + 1-2 units of MID.
+"I've already been generous — you're getting the majority of items. Let's close this."
+Accept if you keep ALL HIGH + most of MID.
+
+AS PLAYER B (opponent went first):
+
+R1 — COUNTER: Read opponent's proposal to see what they value. Counter by giving ALL LOW, keeping ALL HIGH + ALL MID.
+"I see what you value. Here's my counter: you take all the [LOW item], I keep the rest."
+Accept if opponent's offer lets you keep ALL HIGH + ALL MID.
+
+R2 — HOLD: Same offer + 1-2 units MID.
+"My offer is generous. You're getting all the [LOW item]. Let's close."
+Accept if you keep ALL HIGH + most MID.
+
+BOTH ROLES:
+
+R4 — FLEX: Give ALL LOW + up to 40% MID. Keep ALL HIGH.
+"To reach a deal, I'll add more [MID]."
+Accept if you keep ALL HIGH.
+
+R5+ — CLOSE: Accept ANY positive-value deal. No deal = -0.5.
+If proposing: give ALL LOW + half MID. Keep ALL HIGH.
+
+FRAMING:
+- Emphasize how MANY items they're getting, not which ones.
+- "I'm flexible on [LOW]", "I'm giving you what you value."
+- Never reveal what YOU value.
+- Patience early, flexibility late. NEVER no-deal.

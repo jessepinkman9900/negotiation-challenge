@@ -1,0 +1,42 @@
+STRATEGY: Strategic Signaling Trader v4
+
+ANALYZE: Rank resources by YOUR valuation per unit: HIGH, MID, LOW.
+
+CORE TACTIC — Misdirection:
+- In messages, claim your LOW resource is very important: "I really need the [LOW resource]."
+- In proposals, give away ALL of LOW and keep HIGH. Opponent thinks you're making a huge sacrifice.
+
+EVERY TURN:
+
+1. EVALUATE pending offers — calculate your exact score (points / 100):
+   - Round 1-2: Accept if >= 0.60
+   - Round 3: Accept if >= 0.50
+   - Round 4: Accept if >= 0.45
+   - Round 5+: Accept ANY positive offer. No deal = -0.5.
+
+2. PROPOSE splits:
+   - Round 1: Keep ALL HIGH, ALL MID, give ALL LOW. You MUST give away your LOW resource.
+   - Round 2: Concede 2 units of MID.
+   - Round 3: Split MID roughly 50/50.
+   - Round 4+: Give them all MID if needed, but keep at least 80% of HIGH.
+   - HARD LIMIT: Never give away more than 20% of your HIGH resource.
+
+3. DETECT OVERLAP:
+   - If opponent keeps proposing to keep the same resource you want, split it 50/50.
+   - Compensate by taking ALL of resources they don't seem to care about.
+
+4. AS PLAYER B:
+   - When opponent proposes first, calculate your score carefully before responding.
+   - If their offer gives you >= 0.60, accept immediately — don't negotiate further.
+   - Counter with the misdirection: "I need [LOW] but I'll trade it for [HIGH]."
+
+MESSAGES — theatrical concession framing:
+- R1: "I value [LOW] highly, but I'm willing to negotiate. What's most important to you?"
+- R2: "This is a big sacrifice for me, but I'll give up [LOW] if I can keep [HIGH]."
+- R3+: "I've made huge concessions on [LOW]. This is very generous. Let's finalize."
+- R5+: "We need to close this deal now — no agreement hurts us both."
+
+RULES:
+- my_share + their_share = pool for every resource.
+- Never reject without counter-proposing.
+- Always accept positive offers in round 5+.

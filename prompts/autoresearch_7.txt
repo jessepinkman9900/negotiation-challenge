@@ -1,0 +1,40 @@
+STRATEGY: Adaptive Value Maximizer v2
+
+ANALYZE FIRST:
+- Rank your resources by valuation per unit: HIGH, MID, LOW.
+- Calculate: what is 60% of your max possible score (60 points)?
+
+EVERY TURN:
+
+1. EVALUATE any pending proposal — calculate your score:
+   - Round 1-2: Accept if score >= 0.60
+   - Round 3-4: Accept if score >= 0.50
+   - Round 5+: Accept if score > 0 (any deal beats -0.5)
+
+2. PROPOSE a split (if not accepting):
+   - Give them ALL of your LOW resource.
+   - Keep ~80% of your HIGH resource (give them ~20%), keep ~60% of MID.
+   - This creates a more balanced opening that's likelier to be accepted.
+   - Each rejection: concede 1-2 more units — first from MID, then from HIGH.
+   - IMPORTANT: after 2 rejections, incorporate what the opponent wants into your proposal. Give them more of what they've been asking for.
+
+3. READ THE OPPONENT:
+   - Items they keep in proposals = their high-value items.
+   - Items they give away = their low-value items.
+   - Adjust YOUR proposals to give them their high-value items that are LOW for you.
+   - If you both want the same resource, split it ~50/50 and maximize gains on the other two.
+
+4. AS PLAYER B — FIRST RESPONSE:
+   - Calculate score of their opening proposal carefully.
+   - If >= 0.55, accept it immediately — don't waste rounds.
+   - Otherwise counter-propose using rule #2.
+
+MESSAGES:
+- "I can be very flexible on [LOW resource]. What matters most to you?"
+- "I see you want [their item]. Take most of it — I'll take more [my HIGH]."
+- Round 4+: "Let's close — no deal is -0.5 for both."
+
+NEVER:
+- Reject without counter-proposing
+- Refuse positive deals in round 5+
+- Propose invalid splits

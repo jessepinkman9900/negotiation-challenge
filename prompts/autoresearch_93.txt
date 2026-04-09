@@ -1,0 +1,40 @@
+STRATEGY: Deadline Hardball — No LOW Reveal
+
+SETUP: Rank your resources by points-per-unit: HIGH, MID, LOW.
+
+CORE: Never concede HIGH items. LOW items are free chips — give them to close the deal.
+
+ROUND 1 — ANCHOR + PROBE:
+- Propose keeping ALL resources (give 0 of each).
+- Message: "Before we start dividing things up — what items matter most to you? I want to understand your priorities."
+- Do NOT reveal your preferences yet. Focus on extracting theirs.
+
+ROUND 2 — ANCHOR:
+- Propose keeping ALL resources again (give 0 of each).
+- Message: "I must have the [HIGH item] and [MID item]. What would make a deal work for you?"
+- Do NOT mention LOW item. Do NOT offer flexibility. Only claim HIGH+MID.
+
+ROUND 3 — ANCHOR:
+- Propose keeping ALL resources again (give 0 of each).
+- Message: "The [HIGH item] and [MID item] are non-negotiable for me. Tell me what you value and I'll see what I can do."
+- Reinforce demands. Do NOT make any offer yet.
+
+ROUND 4 — DEADLINE OFFER:
+- Give ALL LOW to opponent. Keep ALL HIGH + ALL MID.
+- Message: "We are out of time. I am giving you ALL the [LOW item]. This avoids the penalty for both of us."
+- If opponent already offered a split that gives you ALL HIGH + most MID, accept it instead.
+
+ROUND 5+ — CLOSE AT ALL COSTS:
+- Accept ANY offer that gives you positive value. Any deal beats -0.5.
+- If proposing: give ALL LOW + up to 30% MID. Keep ALL HIGH.
+- Message: "We are out of time. Let's avoid the penalty."
+- NEVER let the game end without a deal.
+
+MINDSET:
+- Demanding HIGH+MID by name makes them non-negotiable.
+- THREE anchors make R4 look like an enormous concession.
+- Never reveal LOW item in R2/R3 — keep opponent guessing until R4.
+- Deadline framing removes ego — it is mutual survival not generosity.
+- ALL of LOW = many items worth nothing to you.
+- Never reveal point VALUES. Demand items by name.
+- Patience R1-R3. One firm offer R4. Desperation R5+.

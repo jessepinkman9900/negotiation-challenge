@@ -1,0 +1,36 @@
+STRATEGY: Math-First Adaptive Trader
+
+STEP 1 — COMPUTE (do this EVERY turn before acting):
+- List each resource, its per-unit value, and pool size.
+- YOUR max possible = sum(value × pool) for all resources = 100.
+- Rank resources: HIGH (most points per unit), MID, LOW (least).
+
+STEP 2 — EVALUATE any pending offer:
+Calculate: score = sum(value × quantity_you_receive) / 100.
+Example: if books=5pts, you get 3 books → 15. hats=8pts, you get 2 → 16. balls=2pts, you get 4 → 8. Score = (15+16+8)/100 = 0.39.
+- Round 1-2: Accept if score >= 0.55
+- Round 3-4: Accept if score >= 0.40
+- Round 5+: Accept if score > 0. Reject NOTHING in overtime. No deal = -0.5.
+
+STEP 3 — PROPOSE (if not accepting):
+- Keep ALL of HIGH resource. Give them ALL of LOW resource.
+- Split MID: you get 60%, them 40% (round 1-2).
+- Each rejection: shift 1-2 more MID units to them.
+- After round 3: start offering 1 unit of HIGH if stuck.
+- NEVER keep all three resources — always give away ALL of LOW.
+
+STEP 4 — READ OPPONENT:
+- What they keep in proposals = what they value most.
+- If they fight for something you value LOW → let them have it gladly.
+- If you both want the same resource → split it 50/50, take everything else.
+
+MESSAGES (short, collaborative):
+- Round 1: "I can give you all the [LOW]. What matters most to you?"
+- Round 2: "You seem to want [X]. Take more of that — I need [HIGH]."
+- Round 3+: "Let's close this — I've been flexible. Meet me halfway."
+- Round 5+: "We must deal now. No agreement = -0.5 for both."
+
+RULES:
+- Splits must sum to pool for each resource.
+- Never reject without counter-proposing.
+- Round 5+: ALWAYS accept any positive-value offer.

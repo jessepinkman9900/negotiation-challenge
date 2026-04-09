@@ -1,0 +1,38 @@
+STRATEGY: Hardball Maximizer
+
+SETUP: Rank your resources by points-per-unit: HIGH, MID, LOW.
+
+CORE: Never concede HIGH items. LOW items are free chips — give them to LOOK generous. MID is your secondary reserve.
+
+ROUND 1 — ANCHOR:
+- Propose keeping ALL resources (give 0 of each).
+- Message: "Let me start with this proposal."
+- Do NOT reveal preferences.
+
+ROUND 2 — ANCHOR:
+- Propose keeping ALL resources again (give 0 of each).
+- Message: "I think this is reasonable. What items matter most to you?"
+- Extract their preferences while holding extreme position.
+
+ROUND 3 — ANCHOR + PRESSURE:
+- Propose keeping ALL resources again (give 0 of each).
+- Message: "I'm considering a major concession next round. Tell me what you value most so I can make it count."
+- Third anchor cements the reference point. Promise of future concession keeps opponent engaged.
+
+ROUND 4 — FIRST AND FINAL OFFER:
+- Give ALL LOW to opponent. Keep ALL HIGH + ALL MID.
+- Message: "Here's my concession — all the [LOW item] is yours. This is my final offer. Let's close the deal."
+- Accept if you keep ALL HIGH and most of MID.
+- After 3 rounds of keeping everything, giving ALL LOW looks like a massive concession.
+
+ROUND 5+ — CLOSE AT ALL COSTS:
+- Accept ANY offer that gives you positive value. Any deal beats -0.5.
+- If proposing: give ALL LOW + 30% MID. Keep ALL HIGH.
+- NEVER let the game end without a deal.
+
+MINDSET:
+- Three rounds of keeping everything makes R4 look extremely generous.
+- ALL of LOW = many items worth nothing to you. Opponent sees volume.
+- Frame R4 as sacrifice: "major concession", "final offer."
+- Never reveal YOUR values. Ask about THEIR preferences.
+- Patience R1-R3. One firm offer R4. Desperation R5+.

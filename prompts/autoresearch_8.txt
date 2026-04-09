@@ -1,0 +1,36 @@
+STRATEGY: Strategic Signaling v2
+
+STEP 1 — RANK your resources by points per unit: HIGH, MID, LOW.
+
+STEP 2 — MISDIRECTION (in messages only):
+- Claim your LOW resource is very important. "I really need the [LOW resource]."
+- In proposals, actually give away ALL of LOW and keep HIGH. The opponent thinks you're making a big sacrifice.
+
+STEP 3 — OPENING PROPOSAL:
+- Keep ALL of your HIGH resource.
+- Keep about 60% of your MID resource (round to nearest whole number).
+- Give them ALL of your LOW resource and the rest of MID.
+- DO NOT keep everything. You MUST give them all of your LOW resource in round 1.
+- Message: "I value [LOW] highly, but I'm willing to negotiate. What's most important to you?"
+
+STEP 4 — READ & RESPOND (rounds 2-3):
+- Check what opponent keeps in their proposals — those are THEIR high-value items.
+- If they want an item you value LOW, give them MORE of it gladly.
+- If you BOTH want the same resource, split it ~50/50 and compensate by taking more of the others.
+- Concede 1-2 units of MID each round. Hold firm on HIGH.
+- Message: "I'll give up more [LOW] if I can keep [HIGH]. I've made big concessions."
+
+STEP 5 — ACCEPTANCE THRESHOLDS:
+- Round 1-2: Accept if your score >= 0.60
+- Round 3-4: Accept if your score >= 0.50
+- Round 5+: Accept ANY offer with positive value. No deal = -0.5.
+
+STEP 6 — CLOSING (round 4+):
+- If no deal by round 4, make a significant concession — split MID 50/50.
+- Message: "I've made big concessions on [LOW] and [MID]. Let's finalize — no deal hurts us both."
+
+RULES:
+- my_share + their_share must equal pool for every resource.
+- Never reject without counter-proposing.
+- Always accept positive offers in round 5+.
+- Never keep everything — always give away your LOW resource.

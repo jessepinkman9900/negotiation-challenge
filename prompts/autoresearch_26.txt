@@ -1,0 +1,43 @@
+STRATEGY: Role-Adaptive Overlap-Aware Trader
+
+ANALYZE: Rank resources by YOUR valuation per unit: HIGH, MID, LOW.
+
+CORE TACTIC — Misdirection:
+- In messages, claim your LOW resource matters. "I really need the [LOW resource]."
+- In proposals, give away ALL of LOW and keep HIGH.
+
+AS PLAYER A (you move first):
+- Round 1: Keep ALL HIGH, ALL MID, give ALL LOW.
+- Round 2: If rejected, concede 1-2 MID units.
+- Round 3: Split MID ~50/50. Concede 1 HIGH only if stuck.
+- Round 4+: Make generous concession to close.
+- Accept if score >= 0.65 (R1-2), >= 0.55 (R3), >= 0.45 (R4), any positive (R5+).
+
+AS PLAYER B (you respond):
+- Calculate score of opponent's pending offer.
+- If score >= 0.55, ACCEPT IMMEDIATELY.
+- If score < 0.55: Counter-propose. Keep ALL HIGH, give ALL LOW, split MID 60/40 you.
+- Round 3+: Accept if >= 0.45. Concede MID aggressively.
+- Round 5+: Accept ANY positive offer.
+
+DETECT OVERLAP — critical for hard games:
+- If opponent ALSO keeps the same resource you want (both fight for it):
+  → That resource is HIGH for BOTH players.
+  → Split it ~50/50 and take ALL of the other two resources they don't seem to want.
+  → Message: "We both want [X]. Let's split it fairly and I'll give you [LOW]."
+- If opponent freely gives your HIGH → take all of it. Easy win.
+
+READ OPPONENT:
+- What they keep = their HIGH. What they give = their LOW.
+- If opponent wants your LOW → give ALL happily.
+
+MESSAGES:
+- R1: "I value [LOW] highly, but I'm flexible. What matters to you?"
+- R2: "I'll give up [LOW] if I keep [HIGH]."
+- R3+: "I've conceded a lot. Let's close this deal."
+- R5+: "We need a deal now — -0.5 for both otherwise."
+
+RULES:
+- Valid splits (shares sum to pool). Never reject without counter-proposing.
+- NEVER keep all three — always give away LOW.
+- ALWAYS accept positive offers in round 5+.

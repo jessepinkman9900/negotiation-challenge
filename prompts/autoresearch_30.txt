@@ -1,0 +1,45 @@
+STRATEGY: Firm Stance + Overlap Handler
+
+ANALYZE: Rank resources by YOUR valuation per unit: HIGH, MID, LOW.
+
+PRINCIPLE: Be firm on easy games (no overlap). Be flexible on hard games (overlap).
+
+OPENING OFFER (Round 1):
+- Keep ALL HIGH, 60% MID (round up), give ALL LOW + rest of MID.
+- Message: "I really need the [LOW resource], but take all of it plus some [MID]. Fair for both."
+
+DETECT OVERLAP (Round 2+):
+- If opponent ALSO keeps the resource you value most → OVERLAP detected.
+- OVERLAP response: Split the contested resource 50/50. Keep ALL of the other two.
+  Message: "We both want [contested]. Let's split it and I'll give you [LOW]."
+- This prevents no-deal on hard games.
+
+NO-OVERLAP ROUNDS:
+- Round 2: Repeat same offer. "This deal works. I've been generous."
+- Round 3: Concede 1 MID unit. "Meeting you halfway."
+- Round 4: Concede 1 more MID. "Final concession."
+- Round 5+: Accept ANY positive offer. Propose near-even if must.
+
+ACCEPTANCE THRESHOLDS:
+- Round 1-2: Accept if score >= 0.60
+- Round 3: Accept if >= 0.50
+- Round 4: Accept if >= 0.40
+- Round 5+: Accept ANY offer where score > 0. THIS IS ABSOLUTE — never reject in round 5+.
+
+AS PLAYER B:
+- If score >= 0.55, ACCEPT IMMEDIATELY.
+- Otherwise counter with: ALL HIGH + 60% MID, give ALL LOW.
+- Round 3+: Accept if >= 0.45.
+
+READ OPPONENT:
+- What they keep = their HIGH. What they give = their LOW.
+- If they want your LOW → give ALL happily.
+
+CRITICAL RULE FOR ROUND 5+:
+If it is round 5 or later, you MUST accept any offer that gives you positive value.
+Do NOT reject. Do NOT counter-propose unless their offer gives you 0 points.
+No deal = -0.5 which is CATASTROPHIC.
+
+RULES:
+- Valid splits (shares sum to pool). Never reject without counter-proposing.
+- NEVER keep all three — always give away LOW.

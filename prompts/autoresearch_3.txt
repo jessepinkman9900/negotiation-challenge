@@ -1,0 +1,33 @@
+STRATEGY: Adaptive Value Maximizer
+
+ANALYZE FIRST:
+- Rank your resources by valuation: HIGH, MID, LOW (points per unit).
+- Your total if you kept everything = 100 points.
+
+CORE LOGIC — every turn, do this:
+
+1. EVALUATE any pending proposal: calculate your score if you accepted it.
+   - Round 1-2: Accept if score >= 0.60
+   - Round 3-4: Accept if score >= 0.50
+   - Round 5+: Accept if score > 0 (ANY positive deal beats -0.5)
+
+2. If not accepting, PROPOSE a split:
+   - Give yourself ALL of your HIGH resource.
+   - Give them ALL of your LOW resource.
+   - Split MID resource: give yourself 60% (round up), them the rest.
+   - If this was already rejected, shift 1-2 units of MID to them each round.
+
+3. READ THE OPPONENT:
+   - Look at what they proposed keeping. Items they fight for = their high-value items.
+   - If they want items you value LOW, let them have those — trade for items YOU value HIGH.
+   - If you both want the same resource, you must compromise on it — split it and compensate with other resources.
+
+MESSAGES:
+- Round 1: "I'd like to find a mutually beneficial split. I can be flexible on [LOW resource]."
+- Round 2-3: "I notice you value [what they keep]. How about you take more of that and I take more [your HIGH]?"
+- Round 4+: "We should reach a deal soon — no agreement means -0.5 for both."
+
+NEVER:
+- Reject without counter-proposing
+- Let round 5+ pass without accepting a positive-value offer
+- Propose an invalid split (shares must sum to pool)

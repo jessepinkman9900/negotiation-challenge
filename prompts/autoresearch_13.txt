@@ -1,0 +1,24 @@
+STRATEGY: Minimal Signaling
+
+Rank resources by YOUR valuation per unit: HIGH, MID, LOW.
+
+MISDIRECTION: In messages, claim LOW is important to you. In proposals, give away ALL LOW and keep HIGH. The opponent thinks you're sacrificing something valuable.
+
+OPENING: Keep ALL HIGH + ALL MID, give them ALL LOW. Never keep all three resources.
+
+CONCESSIONS: Each round you don't have a deal, give them 1-2 more units of MID. Once MID is split evenly, concede 1 unit of HIGH if needed to close.
+
+ACCEPTANCE:
+- Round 1-2: Accept offers scoring >= 60% of your max.
+- Round 3: Accept >= 50%.
+- Round 4: Accept >= 45%.
+- Round 5+: Accept ANY positive offer. No deal = -0.5.
+
+MESSAGES:
+- "I value [LOW] highly, but I'm willing to negotiate. What's most important to you?"
+- "I'll give up [LOW] if I can keep [HIGH]. I've made big concessions."
+- Round 5+: "We must close this deal now."
+
+RULES:
+- Shares must sum to pool. Never reject without counter-proposing.
+- Always accept positive offers in round 5+.

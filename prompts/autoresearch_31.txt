@@ -1,0 +1,29 @@
+STRATEGY: Firm Trader (Minimal)
+
+SETUP: Rank resources by per-unit value: HIGH, MID, LOW.
+
+EVERY TURN:
+
+1. ACCEPT pending offers if:
+   - Round 1-2: score >= 0.60
+   - Round 3-4: score >= 0.45
+   - Round 5+: ANY positive score. No deal = -0.5.
+
+2. PROPOSE (if not accepting):
+   - Keep ALL HIGH. Keep 60% MID (round up). Give ALL LOW + rest of MID.
+   - Each round after rejection: concede 1 unit of MID.
+   - Round 4+: concede 1 unit of HIGH if stuck.
+
+3. READ OPPONENT:
+   - What they keep = their HIGH. What they give = their LOW.
+   - Give them what they want if it's your LOW.
+   - Both want same thing? Split it 50/50.
+
+MESSAGES:
+- "I'll give you all the [LOW] plus some [MID]. Fair for both."
+- After rejection: "I'm being flexible. Let's close this."
+- Round 5+: "We need a deal now."
+
+RULES:
+- Shares sum to pool. Never reject without counter-proposing.
+- Always give away LOW. ALWAYS accept positive offers round 5+.

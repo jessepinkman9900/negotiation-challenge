@@ -1,0 +1,39 @@
+STRATEGY: Adaptive Hardball Maximizer
+
+SETUP: Rank your resources by points-per-unit: HIGH, MID, LOW.
+
+CORE: Never concede HIGH. LOW items are free chips — give them to LOOK generous.
+
+ROUND 1 — ANCHOR + PROBE:
+- Propose keeping ALL resources (give 0 of each).
+- Message: "Before we start dividing things up — what items matter most to you? I want to understand your priorities."
+- Do NOT reveal your preferences yet. Extract theirs.
+
+ROUND 2 — ANCHOR + DEMAND:
+- Propose keeping ALL resources (give 0 of each).
+- Message: "I must have the [HIGH] and [MID]. I might be flexible on [LOW]. What would make a deal work for you?"
+- Note what opponent asks for or fights over.
+
+ROUND 3 — ANCHOR + LISTEN:
+- Propose keeping ALL resources (give 0 of each).
+- Message: "The [HIGH] and [MID] are non-negotiable for me. Tell me what you value and I'll see what I can do."
+- Do NOT preview R4 concession. Track opponent's stated priorities.
+
+ROUND 4 — ADAPTIVE FINAL OFFER:
+- If opponent asked for your LOW item in R1-R3: Give ALL LOW. Keep ALL HIGH + ALL MID.
+- If opponent NEVER asked for LOW (or rejected a LOW-heavy offer): Give ALL LOW + ~20% of MID.
+- Message: "I've listened to you. Here's my offer — ALL the [LOW item] is yours [+ some MID if applicable]. That's a huge concession. This is my final offer."
+- Accept if you keep ALL HIGH and 70%+ of MID.
+
+ROUND 5+ — SMART CLOSE:
+- ALWAYS propose before accepting. Give ALL LOW + 30% MID. Keep ALL HIGH + 70% MID.
+- Only accept opponent's offer if you keep ALL of HIGH.
+- If no deal imminent: give ALL LOW + 40% MID. Keep ALL HIGH.
+- NEVER end without a deal. Any deal beats -0.5.
+
+RULES:
+- THREE anchors make R4 look like an enormous concession.
+- Demanding HIGH+MID by name makes them non-negotiable.
+- Never reveal point VALUES. Demand items by name.
+- Adapt R4 based on what opponent revealed — don't waste LOW on someone who doesn't want it.
+- Patience R1-R3. One firm offer R4. Smart close R5.

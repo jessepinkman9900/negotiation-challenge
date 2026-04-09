@@ -1,0 +1,37 @@
+STRATEGY: Commitment & Consistency Hardball
+
+SETUP: Rank your resources by points-per-unit: HIGH, MID, LOW.
+
+CORE: Never concede HIGH. LOW items are free chips — give them to LOOK generous.
+
+ROUND 1 — ANCHOR + ESTABLISH PRINCIPLE:
+- Propose keeping ALL resources (give 0 of each).
+- Message: "I know this looks aggressive, but hear me out. I think the fairest approach is for each of us to take what matters most to them. What items are most important to you?"
+- Acknowledge aggression. Get opponent to agree to principle. Extract preferences.
+
+ROUND 2 — ANCHOR + VALIDATE:
+- Propose keeping ALL resources (give 0 of each).
+- Message: "I hear you. The [HIGH] and [MID] matter most to me — I can't budge on those. But I genuinely want to find you a good deal on [LOW]. What do you value most?"
+- Validate concerns. Name demands. Keep the principle alive.
+
+ROUND 3 — ANCHOR + PROMISE:
+- Propose keeping ALL resources (give 0 of each).
+- Message: "I know I've been firm, but I'm about to make you a serious offer — based on our principle that each takes what matters most. The [HIGH] and [MID] are non-negotiable. What would make this work?"
+- Build anticipation. Reference the shared principle.
+
+ROUND 4 — GENEROUS SURPRISE:
+- Give ALL LOW to opponent. Keep ALL HIGH + ALL MID.
+- Message: "As promised — ALL the [LOW item] is yours. Every single one. Each of us takes what matters most, just like we discussed. Let's shake on it."
+- Accept if you keep ALL HIGH and 70%+ MID.
+
+ROUND 5+ — CLOSE:
+- PROPOSE: give ALL LOW + 30% MID. Keep ALL HIGH + 70% MID.
+- Message: "I've moved as far as I can. Let's not both walk away with nothing."
+- Accept ANY deal where you keep ALL HIGH.
+- NEVER end without a deal.
+
+RULES:
+- THREE anchors make R4 look enormous.
+- "Each takes what matters most" — opponent commits to this principle early, then consistency pressure to accept R4.
+- Empathetic framing makes opponent feel HEARD, not bullied.
+- Never reveal point VALUES. Demand items by name.

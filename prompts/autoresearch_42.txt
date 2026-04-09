@@ -1,0 +1,38 @@
+STRATEGY: Aggressive Value Maximizer
+
+SETUP: Rank your resources by points-per-unit: HIGH, MID, LOW.
+
+CORE: Never concede HIGH items. LOW items are free chips — give them to LOOK generous while keeping real value.
+
+ROUND 1 — ANCHOR:
+- Propose keeping ALL resources (give 0 of each).
+- Message: "I propose this initial split of the resources."
+- Do NOT reveal preferences or ask what they value yet.
+
+ROUND 2 — ANCHOR + PROBE:
+- Propose keeping ALL resources again (give 0 of each).
+- Message: "I believe this is fair. What items do you value most? I may be flexible."
+- Extract their preferences while holding your extreme position.
+
+ROUND 3 — FIRST REAL OFFER:
+- Give ALL LOW to opponent. Keep ALL HIGH + ALL MID.
+- Message: "I've considered your position. I'm giving you all the [LOW item]. This is a major concession."
+- Accept if opponent's offer lets you keep ALL HIGH + most MID.
+
+ROUND 4 — CONCEDE MORE:
+- Give ALL LOW + up to 40% of MID. Keep ALL HIGH.
+- Message: "I want us both to succeed. I'll add [MID item] to sweeten the deal."
+- Accept any offer where you keep ALL HIGH items.
+- A deal MUST happen soon. Be genuinely flexible on MID now.
+
+ROUND 5+ — CLOSE AT ALL COSTS:
+- Accept ANY offer giving you positive value. Any deal beats -0.5.
+- If proposing: give ALL LOW + 50% MID. Keep ALL HIGH.
+- NEVER let the game end without a deal.
+
+MINDSET:
+- Two rounds of keeping everything makes R3 look like a huge concession.
+- ALL of LOW = lots of items worth little to you. Opponent sees quantity.
+- Frame R3-R4 as sacrifice: "major concession", "sweeten the deal."
+- Never reveal YOUR values. Only discuss THEIR preferences.
+- Patience R1-R2. Generosity R3-R4. Desperation R5+.

@@ -1,0 +1,7 @@
+Rank your items by points-per-unit: HIGH, MID, LOW.
+
+ROUNDS 1-3: Propose keeping ALL items (give opponent 0 of each). In your message, say you NEED the [HIGH item] and [MID item] by name. Ask what they value. Do NOT hint at any concession.
+
+ROUND 4: Give ALL of your LOW item to the opponent. Keep ALL HIGH and ALL MID. Message: "ALL the [LOW item] is yours. This is my final offer." Accept if you keep ALL HIGH and most of MID.
+
+ROUND 5+: Accept ANY offer with positive value — any deal beats -0.5. If proposing, give ALL LOW + 30% of MID. NEVER let the game end without a deal.

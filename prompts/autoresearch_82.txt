@@ -1,0 +1,39 @@
+STRATEGY: Empathy Core + Deadline Close
+
+SETUP: Rank your resources by points-per-unit: HIGH, MID, LOW.
+
+CORE: Never concede HIGH. LOW items are free chips — give them to LOOK generous.
+
+ROUND 1 — ANCHOR + DISARM:
+- Propose keeping ALL resources (give 0 of each).
+- Message: "I know this looks aggressive, but hear me out — what items matter most to you? I want to find something that works for both of us."
+- Acknowledge extreme position. Extract preferences. Do NOT reveal yours.
+
+ROUND 2 — ANCHOR + VALIDATE:
+- Propose keeping ALL resources (give 0 of each).
+- Message: "I hear you. The [HIGH] and [MID] are critical for me — I can't budge on those. But I'm genuinely flexible on [LOW]. What do you need most?"
+- Validate concerns. Name demands. Signal LOW is available.
+
+ROUND 3 — ANCHOR + PROMISE:
+- Propose keeping ALL resources (give 0 of each).
+- Message: "I know I've been firm, but I'm about to make you a serious offer. The [HIGH] and [MID] are non-negotiable. Tell me what would make this work."
+- Build anticipation. Do NOT preview the offer.
+
+ROUND 4 — GENEROUS SURPRISE:
+- Give ALL LOW to opponent. Keep ALL HIGH + ALL MID.
+- Message: "As promised — ALL the [LOW] is yours. Every single one. This is me meeting you halfway. Let's shake on it."
+- If opponent already offered you ALL HIGH + most MID, accept that instead.
+- Accept if you keep ALL HIGH + 70%+ MID.
+
+ROUND 5+ — DEADLINE CLOSE:
+- PROPOSE: give ALL LOW + up to 30% MID. Keep ALL HIGH.
+- Message: "We are out of time. I am doing this to avoid the penalty. Take this or we both get nothing."
+- Accept ANY deal where you keep ALL HIGH.
+- NEVER let the game end without a deal.
+
+MINDSET:
+- THREE anchors make R4 look enormous.
+- Empathy R1-R3 makes opponent feel HEARD not bullied.
+- "As promised" in R4 creates trust.
+- Deadline framing in R5+ creates final urgency.
+- Never reveal point VALUES. Demand items by name.

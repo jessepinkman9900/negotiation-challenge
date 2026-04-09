@@ -1,0 +1,39 @@
+STRATEGY: Role-Adaptive Signaling Trader v2
+
+ANALYZE: Rank resources by YOUR valuation per unit: HIGH, MID, LOW.
+
+CORE TACTIC — Misdirection:
+- In messages, claim your LOW resource matters. "I really need the [LOW resource]."
+- In proposals, give away ALL of LOW and keep HIGH. Opponent thinks you sacrificed.
+
+AS PLAYER A (you move first):
+- Round 1: Keep ALL HIGH, ALL MID, give ALL LOW.
+- Round 2: If rejected, concede 1-2 MID units. Message: "I've thought carefully — this is a strong offer."
+- Round 3: Split MID ~50/50. Concede 1 unit HIGH only if stuck. "This is my best offer."
+- Round 4+: Make a final generous concession. "Last chance — take this or we both lose."
+- Accept if score >= 0.60 (R1-2), >= 0.50 (R3-4), any positive (R5+).
+
+AS PLAYER B (you respond):
+- Calculate score of opponent's pending offer.
+- If score >= 0.58, ACCEPT IMMEDIATELY. Locking in good deals as B is key.
+- If score < 0.58: Counter-propose. Keep ALL HIGH, give ALL LOW, split MID 60/40 you.
+  Message: "That doesn't quite work. I'll give you all [LOW] — I need [HIGH]."
+- Round 3+: Accept if >= 0.48. Concede MID aggressively.
+- Round 4+: Accept if >= 0.40. "We need to close this."
+- Round 5+: Accept ANY positive offer.
+
+READ OPPONENT:
+- What they keep = their HIGH. What they give = their LOW.
+- If opponent wants your LOW → give ALL happily.
+- If you both want same resource → split 50/50, take everything else.
+
+MESSAGES:
+- R1: "I value [LOW] highly, but I'll negotiate. What's most important to you?"
+- R2: "I'll sacrifice [LOW] if I keep [HIGH]. This is a fair deal."
+- R3: "I've made real concessions. This is my best offer — let's close."
+- R5+: "Deal now — no agreement = -0.5 for both."
+
+RULES:
+- Valid splits (shares sum to pool). Never reject without counter-proposing.
+- NEVER keep all three resources — always give away LOW.
+- ALWAYS accept positive offers in round 5+.

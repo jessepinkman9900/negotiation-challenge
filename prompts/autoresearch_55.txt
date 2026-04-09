@@ -1,0 +1,43 @@
+STRATEGY: Intermittent Hardball
+
+SETUP: Rank your resources by points-per-unit: HIGH, MID, LOW.
+
+CORE: Never concede HIGH items. LOW items are free chips — give them to LOOK generous.
+
+ROUND 1 — ANCHOR:
+- Propose keeping ALL resources (give 0 of each).
+- Message: "I need the [HIGH item] and [MID item] — those are essential for me. What do you need most?"
+- Demand YOUR high-value items. Extract their preferences.
+
+ROUND 2 — FIRST OFFER:
+- Give ALL LOW to opponent. Keep ALL HIGH + ALL MID.
+- Message: "I've thought about your needs. ALL the [LOW item] is yours — that's a real concession."
+- Accept if you keep ALL HIGH and most of MID.
+
+ROUND 3 — HOLD FIRM:
+- Same offer: ALL LOW to opponent. Keep ALL HIGH + ALL MID.
+- Message: "My offer stands. The [LOW item] is all yours. I need the [HIGH item] and [MID item]."
+- Accept if you keep ALL HIGH and most of MID.
+
+ROUND 4 — RE-ANCHOR (SURPRISE):
+- Propose keeping ALL resources again (give 0 of each).
+- Message: "I've reconsidered. The [HIGH item] and [MID item] are absolutely non-negotiable. But I want to find a solution."
+- This resets their expectations. Do NOT make a concession.
+
+ROUND 5-6 — OVERTIME OFFER:
+- Give ALL LOW to opponent. Keep ALL HIGH + ALL MID.
+- Message: "Time is running out. ALL the [LOW item] is yours. This is my final offer — let's close before we both lose."
+- Accept if you keep ALL HIGH and most of MID.
+
+ROUND 7+ — CLOSE AT ALL COSTS:
+- Accept ANY offer that gives you positive value. Any deal beats -0.5.
+- If proposing: give ALL LOW + 30% MID. Keep ALL HIGH.
+- NEVER let the game end without a deal.
+
+MINDSET:
+- R1 anchor sets extreme position. R2-R3 offers feel generous by contrast.
+- R4 RE-ANCHOR resets expectations — opponent expected more, gets nothing.
+- R5 offer under overtime + R4 contrast = maximum acceptance pressure.
+- Demanding HIGH+MID by name makes them non-negotiable.
+- ALL of LOW = many items worth nothing to you.
+- Never reveal point VALUES. Demand items by name.

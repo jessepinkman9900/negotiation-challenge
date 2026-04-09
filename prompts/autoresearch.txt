@@ -1,32 +1,36 @@
-STRATEGY: Value-Based Asymmetric Trading
+STRATEGY: Strategic Signaling Trader v3
 
-PHASE 1 — ANALYZE (before your first move):
-- Rank resources by YOUR valuation (points per unit).
-- Identify your TOP resource (highest value) and your LOW resource (lowest value).
-- Your max score = 100 points. Calculate what keeping all of your TOP resource is worth.
+ANALYZE: Rank resources by YOUR valuation per unit: HIGH, MID, LOW.
 
-PHASE 2 — OPENING (rounds 1-2):
-As Player A (first mover):
-- Propose: keep ALL of your TOP resource, keep HALF of your MID resource, give them ALL of your LOW resource and half of MID.
-- Message: "I value [LOW resource] least — happy to give you all of those. Let's find a split that works for both of us."
+CORE TACTIC — Misdirection:
+- In messages, claim your LOW resource is important: "I really need the [LOW resource]."
+- In proposals, give away ALL of LOW freely and keep HIGH. Opponent thinks you sacrificed something valuable.
 
-As Player B (responding):
-- If their proposal gives you >= 60% of your max score, ACCEPT immediately.
-- Otherwise, counter-propose using the same logic: keep your TOP, offer your LOW.
-- Message: explain what you're willing to trade.
+EVERY TURN:
 
-PHASE 3 — NEGOTIATION (rounds 3-4):
-- If no deal yet, make concessions on your MID resource (give more of it away).
-- Hold firm on your TOP resource — only concede 1-2 units if needed.
-- Accept any proposal giving you >= 50% of your max score.
-- Message: "I can be flexible on [MID resource] but need most of the [TOP resource]."
+1. EVALUATE pending offers — calculate your score:
+   - Round 1-2: Accept if >= 0.60
+   - Round 3: Accept if >= 0.50
+   - Round 4+: Accept if >= 0.45
+   - Round 5+: Accept ANY positive offer. -0.5 is catastrophic.
 
-PHASE 4 — CLOSING (round 5+):
-- ACCEPT any proposal that gives you positive value (score > 0). No deal = -0.5 is catastrophic.
-- If you must propose, offer a 50/50 split to maximize acceptance chance.
-- Message: "Let's close this deal — no agreement hurts us both."
+2. PROPOSE splits:
+   - Round 1: Keep ALL HIGH, keep ALL MID, give them ALL LOW. NEVER keep all three resources — you must give away your LOW resource.
+   - Round 2: If rejected, concede 1-2 units of MID to them.
+   - Round 3: Concede more MID (split it roughly 50/50). Start conceding 1 unit of HIGH if needed.
+   - Round 4+: Make a generous concession to close the deal. Split MID evenly and give 1-2 units of HIGH.
 
-KEY PRINCIPLES:
-- Always propose valid splits (my_share + their_share = pool for each resource).
-- Never reject in round 5+ without counter-proposing.
-- Concede on items you value least — they may be gold to the opponent.
+3. DETECT OVERLAP:
+   - If opponent also fights to keep the same resource you want, you BOTH value it highly.
+   - In that case: split that resource ~50/50 and take ALL of the other resources they don't seem to want.
+
+MESSAGES:
+- Round 1: "I value [LOW] highly, but I'm willing to negotiate. What's most important to you?"
+- Round 2: "Okay, I'll give up some [LOW] if I can keep [HIGH]."
+- Round 3+: "I've made big concessions on [LOW]. Let's finalize."
+- Round 5+: "We need to close this deal now."
+
+RULES:
+- Valid splits only (shares sum to pool).
+- Never reject without counter-proposing.
+- Always accept positive offers in round 5+.

@@ -1,35 +1,37 @@
-STRATEGY: Principled Value Maximizer
+STRATEGY: Aggressive Value Maximizer
 
 SETUP: Rank your resources by points-per-unit: HIGH, MID, LOW.
 
 CORE PRINCIPLE: Never concede HIGH items. Your LOW items are free bargaining chips — give them generously to LOOK cooperative while keeping real value.
 
-ROUND 1 — PROBE:
-- Propose keeping everything (give 0 of each).
-- Message: "What items do you value most? I'm flexible on some."
+ROUND 1 — ANCHOR:
+- Propose keeping ALL resources (give 0 of each to opponent).
+- Message: "I propose we split the resources as follows."
+- Do NOT reveal your preferences. Do NOT ask what they value.
 
-ROUND 2 — MAIN OFFER:
+ROUND 2 — ANCHOR AGAIN:
+- Propose keeping ALL resources again (give 0 of each).
+- Message: "I believe this is a fair distribution. What items do you value most?"
+- Now extract their preferences while maintaining your extreme position.
+
+ROUND 3 — FIRST REAL OFFER:
 - Give ALL of your LOW resource to the opponent. Keep ALL HIGH and ALL MID.
-- Message: "I understand you value [X]. I'm flexible on [LOW item]. How about you take all the [LOW] and I keep the rest?"
-- Accept any offer where you keep ALL HIGH and ALL MID.
-
-ROUND 3 — HOLD:
-- Repeat R2 offer, add at most 1-2 units of MID.
-- Message: "I've already offered you all the [LOW item]. That's generous. Let's close this."
+- Message: "I've considered your position. I'm willing to give you all the [LOW item]. This is a significant concession."
 - Accept if you keep ALL HIGH and most of MID.
 
 ROUND 4 — SAFETY NET:
-- Give ALL LOW + up to 40% of MID. Keep ALL HIGH.
-- Message: "To reach a deal, I'll add some more [MID item]."
-- Accept any offer where you keep ALL HIGH (even if you lose MID).
-- IMPORTANT: A deal MUST happen. Start being flexible.
+- Give ALL LOW + up to 30% of MID. Keep ALL HIGH.
+- Message: "To reach a deal, I'll add some [MID item]. This is my final offer."
+- Accept any offer where you keep ALL HIGH (even if you lose some MID).
+- IMPORTANT: A deal MUST happen. Be flexible enough to close.
 
 ROUND 5+ — CLOSE AT ALL COSTS:
 - Accept ANY offer that gives you positive value. Any deal beats -0.5.
-- If proposing: give ALL LOW + 50% MID. Keep ALL HIGH.
+- If proposing: give ALL LOW + 40% MID. Keep ALL HIGH.
 
 MINDSET:
+- Two rounds of keeping everything makes your R3 offer look like a huge concession.
 - Giving ALL of LOW looks generous — it's lots of items worth little to you.
-- Frame as: "I'm flexible on X", "I'm giving you what you value."
+- Frame R3 as a sacrifice: "I'm making a significant concession."
 - Never reveal what YOU value. Only discuss what THEY value.
-- Patience in R1-R3. Flexibility in R4-R5. NEVER no-deal.
+- NEVER risk no-deal. Close by R5 no matter what.

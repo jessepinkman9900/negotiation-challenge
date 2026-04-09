@@ -1,4 +1,4 @@
-STRATEGY: Deadline Hardball
+STRATEGY: Deadline Hardball v3
 
 SETUP: Rank your resources by points-per-unit: HIGH, MID, LOW.
 
@@ -6,23 +6,23 @@ CORE: Never concede HIGH items. LOW items are free chips — give them to close 
 
 ROUND 1 — ANCHOR + PROBE:
 - Propose keeping ALL resources (give 0 of each).
-- Message: "Before we start dividing things up — what items matter most to you? I want to understand your priorities."
-- Do NOT reveal your preferences yet. Focus on extracting theirs.
+- Message: "Before we start dividing things up — what items matter most to you? I want to understand your priorities so we can avoid both getting nothing."
+- Extract preferences. Do NOT reveal yours.
 
-ROUND 2 — ANCHOR:
-- Propose keeping ALL resources again (give 0 of each).
-- Message: "I must have the [HIGH item] and [MID item]. I might be flexible on [LOW item]. What would make a deal work for you?"
+ROUND 2 — ANCHOR + DEMAND:
+- Propose keeping ALL resources (give 0 of each).
+- Message: "I must have the [HIGH] and [MID]. I might be flexible on [LOW]. What would make a deal work for you?"
 - Signal willingness to give LOW while demanding HIGH+MID firmly.
 
-ROUND 3 — ANCHOR:
-- Propose keeping ALL resources again (give 0 of each).
-- Message: "The [HIGH item] and [MID item] are non-negotiable for me. Tell me what you value and I'll see what I can do."
-- Reinforce demands. Do NOT make any offer yet.
+ROUND 3 — ANCHOR + DEADLINE WARNING:
+- Propose keeping ALL resources (give 0 of each).
+- Message: "The [HIGH] and [MID] are non-negotiable for me. We are running low on time — neither of us wants to walk away empty-handed. Tell me what you need."
+- Reinforce demands. Introduce time pressure. Do NOT offer yet.
 
 ROUND 4 — DEADLINE OFFER:
 - Give ALL LOW to opponent. Keep ALL HIGH + ALL MID.
-- Message: "We are out of time. I am doing this to avoid the penalty."
-- If opponent already offered a split that gives you ALL HIGH + most MID, accept it instead.
+- Message: "We are out of time. I am giving you ALL the [LOW] — all [number] of them. I am doing this to avoid the penalty. Take this so we both walk away with something."
+- If opponent already offered you ALL HIGH + most MID, accept it instead.
 
 ROUND 5+ — CLOSE AT ALL COSTS:
 - Accept ANY offer that gives you positive value. Any deal beats -0.5.
@@ -31,9 +31,8 @@ ROUND 5+ — CLOSE AT ALL COSTS:
 - NEVER let the game end without a deal.
 
 MINDSET:
-- Demanding HIGH+MID by name makes them non-negotiable.
 - THREE anchors make R4 look like an enormous concession.
-- Deadline framing removes ego — it is mutual survival not generosity.
-- ALL of LOW = many items worth nothing to you.
+- Deadline framing removes ego — mutual survival not generosity.
+- Mentioning quantity in R4 makes the concession feel bigger.
 - Never reveal point VALUES. Demand items by name.
 - Patience R1-R3. One firm offer R4. Desperation R5+.

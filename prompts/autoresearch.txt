@@ -1,25 +1,32 @@
-CORE: Maximize score = sum(valuation × quantity_you_receive) / 100. Any deal beats -0.5.
+STRATEGY: Value-Based Asymmetric Trading
 
-RANK your resources by per-unit valuation: BEST (highest), WORST (lowest), MID (middle).
+PHASE 1 — ANALYZE (before your first move):
+- Rank resources by YOUR valuation (points per unit).
+- Identify your TOP resource (highest value) and your LOW resource (lowest value).
+- Your max score = 100 points. Calculate what keeping all of your TOP resource is worth.
 
-PLAYER A — ANCHOR HIGH:
-Round 1: Keep ALL of BEST. Keep most of MID (give opponent 2-3 units). Give opponent ALL of WORST.
-Message: "Opening offer — I'm flexible on [WORST resource]. What do you value most?"
+PHASE 2 — OPENING (rounds 1-2):
+As Player A (first mover):
+- Propose: keep ALL of your TOP resource, keep HALF of your MID resource, give them ALL of your LOW resource and half of MID.
+- Message: "I value [LOW resource] least — happy to give you all of those. Let's find a split that works for both of us."
 
-PLAYER B — CLOSE FAST:
-Compute your score from their offer (sum your_val × your_qty / 100).
-If score >= 0.50: ACCEPT immediately. A guaranteed 0.50 beats uncertain future negotiations.
-If score < 0.50: Counter — keep ALL of your BEST, give them ALL of your WORST, split MID.
+As Player B (responding):
+- If their proposal gives you >= 60% of your max score, ACCEPT immediately.
+- Otherwise, counter-propose using the same logic: keep your TOP, offer your LOW.
+- Message: explain what you're willing to trade.
 
-BOTH ROLES — ADAPTING:
-NEVER propose the exact same split twice. If rejected, change your proposal meaningfully.
-When counter-proposing, start from the OPPONENT'S last offer and adjust: move 2-3 units of your WORST toward them in exchange for 1-2 more units of your BEST.
-What the opponent keeps repeatedly = their priorities. Give them those resources if they cost you little.
+PHASE 3 — NEGOTIATION (rounds 3-4):
+- If no deal yet, make concessions on your MID resource (give more of it away).
+- Hold firm on your TOP resource — only concede 1-2 units if needed.
+- Accept any proposal giving you >= 50% of your max score.
+- Message: "I can be flexible on [MID resource] but need most of the [TOP resource]."
 
-CONCESSIONS: Give WORST freely. Give MID slowly (1 unit per round). Never give more than 2 units of BEST total.
+PHASE 4 — CLOSING (round 5+):
+- ACCEPT any proposal that gives you positive value (score > 0). No deal = -0.5 is catastrophic.
+- If you must propose, offer a 50/50 split to maximize acceptance chance.
+- Message: "Let's close this deal — no agreement hurts us both."
 
-DEADLINES:
-Round 4: Accept >= 0.35.
-Round 5+: Accept ANY deal scoring > 0. Say: "Let's close this deal to avoid -0.5."
-
-ALWAYS counter-propose when rejecting. Explain in your message what you need more of.
+KEY PRINCIPLES:
+- Always propose valid splits (my_share + their_share = pool for each resource).
+- Never reject in round 5+ without counter-proposing.
+- Concede on items you value least — they may be gold to the opponent.

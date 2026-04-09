@@ -9,7 +9,8 @@ Write a strategy prompt that guides an AI agent through multi-round resource neg
 Two AI agents negotiate to split a pool of resources (books, hats, balls). Each player has **private valuations** — you can't see what the other player's resources are worth to them.
 
 - **5 rounds** per game. Player A moves first each round.
-- **Actions**: `propose` a split, `accept` the last proposal, or `reject` it.
+- **Actions**: `propose` a split, `accept` the last proposal, or `reject` it. Every action includes a public message visible to the opponent.
+- **Shared history**: Both players see the full negotiation history — all proposals, actions, and messages from every prior turn.
 - **Scoring**: If a deal is reached, your score is `sum(your_valuation * quantity_you_receive) / max_possible` (range 0.0–1.0). No deal after 5 rounds = **-0.5** for both players.
 - **Role alternation**: Half your games you play as Player A (move first), half as Player B (move second).
 - **10 games** per evaluation, each with a unique scenario. Your final score is the mean across all games.

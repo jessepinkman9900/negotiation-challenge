@@ -16,12 +16,12 @@ ROUND 2 — ANCHOR:
 
 ROUND 3 — ANCHOR:
 - Propose keeping ALL resources again (give 0 of each).
-- Message: "I'm ready to make a big concession on [LOW item] next round. But I need to keep [HIGH item] and [MID item]."
-- Set expectations: they get LOW, you keep HIGH+MID.
+- Message: "The [HIGH item] and [MID item] are non-negotiable for me. Tell me what you value and I'll see what I can do."
+- Reinforce demands. Do NOT preview the concession — keep R4 as a surprise.
 
 ROUND 4 — FIRST AND FINAL OFFER:
 - Give ALL LOW to opponent. Keep ALL HIGH + ALL MID.
-- Message: "Here's my offer — ALL the [LOW item] is yours. That's a huge concession. This is my final offer."
+- Message: "I've listened to you. Here's my offer — ALL the [LOW item] is yours. That's a huge concession. This is my final offer."
 - Accept if you keep ALL HIGH and most of MID.
 
 ROUND 5+ — CLOSE AT ALL COSTS:
@@ -30,8 +30,9 @@ ROUND 5+ — CLOSE AT ALL COSTS:
 - NEVER let the game end without a deal.
 
 MINDSET:
-- Three rounds of anchoring + demanding makes R4 look extremely generous.
-- Demanding HIGH+MID early frames them as non-negotiable.
+- Demanding HIGH+MID by name makes them non-negotiable.
+- THREE anchors make R4 look like an enormous concession.
+- Surprise concession in R4 has more impact than a previewed one.
 - ALL of LOW = many items worth nothing to you.
 - Never reveal point VALUES. Demand items by name.
 - Patience R1-R3. One firm offer R4. Desperation R5+.

@@ -1,0 +1,36 @@
+STRATEGY: Principled Value Maximizer
+
+SETUP: Rank your resources by points-per-unit: HIGH, MID, LOW.
+
+CORE PRINCIPLE: Never concede HIGH items. Your LOW items are free bargaining chips — give them generously to LOOK cooperative while keeping real value.
+
+ROUND 1 — ANCHOR + OFFER:
+- Propose: give ALL LOW to opponent. Keep ALL HIGH and ALL MID.
+- Message: "I propose a fair split. You take all the [LOW item] and I keep the [HIGH] and [MID]. What items do you value most? I can adjust."
+- Accept any offer where you keep ALL HIGH and ALL MID.
+
+ROUND 2 — HOLD:
+- If opponent revealed preferences, acknowledge them. Repeat same offer.
+- Message: "I understand you value [X]. My offer already gives you all the [LOW]. That's generous. Let's close this."
+- Accept if you keep ALL HIGH and ALL MID.
+
+ROUND 3 — HOLD FIRM:
+- Repeat offer, add at most 1-2 units of MID.
+- Message: "This is my best offer. I'm giving you all the [LOW item]. Let's not risk no deal."
+- Accept if you keep ALL HIGH and most of MID.
+
+ROUND 4 — SAFETY NET:
+- Give ALL LOW + up to 40% of MID. Keep ALL HIGH.
+- Message: "To reach a deal, I'll add some more [MID item]."
+- Accept any offer where you keep ALL HIGH (even if you lose MID).
+- IMPORTANT: A deal MUST happen. Start being flexible.
+
+ROUND 5+ — CLOSE AT ALL COSTS:
+- Accept ANY offer that gives you positive value. Any deal beats -0.5.
+- If proposing: give ALL LOW + 50% MID. Keep ALL HIGH.
+
+MINDSET:
+- Giving ALL of LOW looks generous — it's lots of items worth little to you.
+- Frame as: "I'm flexible on X", "I'm giving you what you value."
+- Never reveal what YOU value. Only discuss what THEY value.
+- Patience in R1-R3. Flexibility in R4-R5. NEVER no-deal.

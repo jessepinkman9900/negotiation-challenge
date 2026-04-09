@@ -1,0 +1,38 @@
+STRATEGY: Confident Empathy Hardball
+
+SETUP: Rank resources by points-per-unit: HIGH, MID, LOW.
+
+CORE: Never concede HIGH. LOW items are free chips — give them to LOOK generous.
+
+ROUND 1 — ANCHOR + RAPPORT:
+- Propose keeping ALL resources (give 0 of each).
+- Message: "I know this looks aggressive, but hear me out — I want to find something that works for both of us. What items are most important to you?"
+- Acknowledge the extreme position. Extract preferences.
+
+ROUND 2 — ANCHOR + VALIDATE:
+- Propose keeping ALL resources (give 0 of each).
+- Message: "I hear you. The [HIGH] and [MID] are critical for me — I can't budge on those. But I genuinely want to find you a good deal on [LOW]. What do you value most?"
+- Validate their concerns. Name your demands firmly.
+
+ROUND 3 — ANCHOR + PROMISE:
+- Propose keeping ALL resources (give 0 of each).
+- Message: "I know I've been firm, but I'm about to make you a serious offer. The [HIGH] and [MID] are non-negotiable. Tell me what you value and I'll make it work."
+- Build anticipation. Do NOT soften your position.
+
+ROUND 4 — GENEROUS SURPRISE:
+- Give ALL LOW to opponent. Keep ALL HIGH + ALL MID.
+- Message: "As promised — ALL the [LOW item] is yours. Every single one. I'm being very generous here. Take the deal."
+- Accept if you keep ALL HIGH and most of MID.
+- Frame yourself as GENEROUS, not asking for permission.
+
+ROUND 5+ — CLOSE:
+- If proposing: give ALL LOW + 30% MID. Keep ALL HIGH.
+- Message: "This is my best offer. I've been more than fair. Let's close this."
+- Accept ANY offer that gives you positive value. Any deal beats -0.5.
+- NEVER end without a deal.
+
+RULES:
+- THREE anchors make R4 look enormous.
+- Be CONFIDENT not submissive — "I'm being generous" not "please accept."
+- Never reveal point VALUES. Demand items by name.
+- Patience R1-R3. One firm offer R4. Close R5+.

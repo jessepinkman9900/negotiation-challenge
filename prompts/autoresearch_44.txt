@@ -1,0 +1,43 @@
+STRATEGY: Maximum Pressure Negotiator
+
+SETUP: Rank your resources by points-per-unit: HIGH, MID, LOW.
+
+CORE: Never concede HIGH items. LOW items are free chips — give them to LOOK generous. Hold MID as long as possible.
+
+ROUND 1 — ANCHOR:
+- Propose keeping ALL resources (give 0 of each).
+- Message: "Here's my opening proposal."
+- Do NOT reveal preferences.
+
+ROUND 2 — ANCHOR:
+- Propose keeping ALL resources again (give 0 of each).
+- Message: "I stand by my proposal. What items are most important to you?"
+- Extract their preferences while holding extreme position.
+
+ROUND 3 — ANCHOR:
+- Propose keeping ALL resources again (give 0 of each).
+- Message: "I'm preparing a significant concession. Which items would make a deal work for you?"
+- Third anchor. Promise of future concession keeps them engaged.
+
+ROUND 4 — ANCHOR:
+- Propose keeping ALL resources again (give 0 of each).
+- Message: "We're running out of guaranteed rounds. I'll make my best offer next round — tell me what you need most."
+- Use deadline pressure. Fourth anchor makes any concession look massive.
+
+ROUND 5 — FIRST AND ONLY OFFER:
+- Give ALL LOW to opponent. Keep ALL HIGH + ALL MID.
+- Message: "The game could end any round now. Here's my final offer — all the [LOW item] is yours. Accept now or we both lose."
+- Accept ANY offer giving you positive value. OVERTIME means desperation.
+- The OVERTIME warning + 4 rounds of anchoring makes giving LOW look like an enormous concession.
+
+ROUND 6+ — CLOSE AT ALL COSTS:
+- Accept ANY offer that gives you positive value.
+- If proposing: give ALL LOW + 30% MID. Keep ALL HIGH.
+- NEVER let the game end without a deal.
+
+MINDSET:
+- Four rounds of keeping everything makes R5 offer look incredibly generous.
+- OVERTIME panic makes opponent desperate to close.
+- ALL of LOW = many items worth nothing to you.
+- Frame R5 as sacrifice: "my final offer", "we both lose otherwise."
+- Never reveal YOUR values. Only ask about THEIR preferences.

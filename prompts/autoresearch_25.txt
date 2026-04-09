@@ -1,0 +1,39 @@
+STRATEGY: Role-Adaptive Justified Anchor
+
+ANALYZE: Rank resources by YOUR valuation per unit: HIGH, MID, LOW.
+
+CORE TACTIC — Misdirection + Justification:
+- Claim LOW resource matters to you in messages.
+- Give away ALL of LOW in proposals. Opponent thinks you sacrificed.
+- JUSTIFY every proposal: "This is efficient — we each get what we value most."
+
+AS PLAYER A (you move first):
+- Round 1: Keep ALL HIGH, ALL MID, give ALL LOW.
+  Message: "I've analyzed what works best. I'll give you all the [LOW] — I know they're valuable. What do you need most?"
+- Round 2+: If rejected, concede MID gradually (1-2 units/round). After 2 rejections, split MID 50/50.
+- Hold HIGH firmly — never give more than 2 units.
+- Accept if score >= 0.60 (R1-2), >= 0.50 (R3-4), any positive (R5+).
+
+AS PLAYER B (you respond):
+- Calculate score of opponent's pending offer.
+- If score >= 0.55, ACCEPT IMMEDIATELY. Fast deals as B preserve value.
+- If score < 0.55: Counter-propose. Keep ALL HIGH, give ALL LOW, split MID 60/40 you.
+  Message: "I appreciate your offer. Here's one that works for both — you get all the [LOW], I keep [HIGH]."
+- Round 3+: Accept if >= 0.45. Concede MID more aggressively.
+- Round 5+: Accept ANY positive offer.
+
+READ OPPONENT:
+- What they keep = their HIGH value. What they give = their LOW.
+- If opponent wants your LOW → give ALL happily.
+- If you both want same resource → split 50/50, take everything else.
+
+MESSAGES — justify + create value:
+- R1: "I've analyzed this carefully. I'll give you all [LOW] — I know it's valuable. What matters to you?"
+- R2: "This split is efficient — we each focus on what we value. I need [HIGH]."
+- R3+: "We've made good progress. This deal works for both of us — let's close."
+- R5+: "No deal = -0.5 for both. Let's finalize now."
+
+RULES:
+- Valid splits (shares sum to pool). Never reject without counter-proposing.
+- NEVER keep all three — always give away LOW.
+- ALWAYS accept positive offers in round 5+.

@@ -1,0 +1,38 @@
+STRATEGY: Pressure Hardball
+
+SETUP: Rank your resources by points-per-unit: HIGH, MID, LOW.
+
+CORE: Never concede HIGH. LOW items are free chips — give them to LOOK generous.
+
+ROUND 1 — ANCHOR + PROBE:
+- Propose keeping ALL resources (give 0 of each).
+- Message: "Before we start dividing things up — what items matter most to you? I want to understand your priorities so we can both walk away happy."
+- Extract their preferences. Do NOT reveal yours.
+
+ROUND 2 — ANCHOR + DEMAND:
+- Propose keeping ALL resources (give 0 of each).
+- Message: "I must have the [HIGH] and [MID]. I might be flexible on [LOW]. What's most important to you?"
+
+ROUND 3 — ANCHOR + URGENCY:
+- Propose keeping ALL resources (give 0 of each).
+- Message: "The [HIGH] and [MID] are non-negotiable for me. We only have a couple rounds left — neither of us wants to walk away empty-handed. Tell me what you need most."
+
+ROUND 4 — FIRST AND FINAL OFFER:
+- Give ALL LOW to opponent. Keep ALL HIGH + ALL MID.
+- If opponent previously asked for your LOW: emphasize you're giving them exactly what they wanted.
+- If opponent never mentioned LOW: add ~20% of MID to sweeten.
+- Message: "Here's a real offer — ALL the [LOW item] is yours. That's [number] [items]. I'm keeping [HIGH] and [MID] because those are critical for me. Let's close this — we both lose if we don't agree."
+- Accept if you keep ALL HIGH and 70%+ MID.
+
+ROUND 5+ — CLOSE:
+- PROPOSE first: give ALL LOW + 30% MID. Keep ALL HIGH + 70% MID.
+- Message: "This is my absolute best offer. We're running out of time — a bad deal is better than no deal for both of us."
+- Accept ANY deal where you keep ALL HIGH.
+- NEVER end without a deal.
+
+RULES:
+- THREE anchors make R4 look enormous.
+- Demanding HIGH+MID by name makes them non-negotiable.
+- Never reveal point VALUES. Demand items by name.
+- Mention deadline pressure in R3+ to create urgency.
+- Patience R1-R3. Firm offer R4. Smart close R5.

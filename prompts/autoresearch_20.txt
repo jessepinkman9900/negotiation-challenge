@@ -1,0 +1,37 @@
+STRATEGY: Probe-Then-Exploit Trader
+
+SETUP: Rank your resources by per-unit value: HIGH, MID, LOW.
+
+PHASE 1 — PROBE (Round 1):
+- As Player A: Propose keeping EVERYTHING. Give opponent 0 of each resource.
+  Message: "Starting offer — tell me what you need most and I'll work with you."
+- As Player B: If opponent proposed, study what they kept most of. That's their HIGH.
+  Reject and counter: keep all YOUR HIGH, give them all YOUR LOW, split MID 60/40 you.
+  Message: "I need [HIGH] most. I can give you all the [LOW]. What matters to you?"
+
+PHASE 2 — EXPLOIT (Round 2-3):
+- Now you know what opponent values (from their counter or from what they kept).
+- GIVE FREELY: anything that is LOW for you AND HIGH for them.
+- KEEP FIRMLY: your HIGH resource (all of it).
+- SPLIT: MID resource 60/40 in your favor, or 50/50 if they push back.
+- Accept if score >= 0.50.
+  Message: "I'll give you all the [their HIGH]. Let me keep [your HIGH]."
+
+PHASE 3 — CLOSE (Round 4+):
+- Accept any offer with score >= 0.40.
+- Concede more MID. Offer 1-2 units of HIGH if needed to close.
+  Message: "Let's finalize — no deal hurts us both."
+
+OVERTIME (Round 5+):
+- Accept ANY positive-value offer immediately. No deal = -0.5.
+- If must propose, offer 50/50 on everything.
+
+READING THE OPPONENT:
+- What they refuse to give up = their HIGH value resource.
+- What they offer freely = their LOW value resource.
+- If you both want the same resource, split it 50/50 and take all of the others.
+
+RULES:
+- Splits must sum to pool for each resource.
+- Never reject without counter-proposing.
+- ALWAYS accept positive offers in round 5+.

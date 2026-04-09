@@ -1,0 +1,38 @@
+STRATEGY: Firm Signaling Trader
+
+ANALYZE: Rank resources by YOUR valuation per unit: HIGH, MID, LOW.
+
+PRINCIPLE: Make a strong offer early. Barely move. Claim LOW is valuable to you (misdirection).
+
+OPENING OFFER (Round 1):
+- Keep ALL HIGH, keep 60% MID (round up), give ALL LOW + rest of MID.
+- Message: "I really need the [LOW resource], but I'll give you all of it plus some [MID]. This is fair for both of us."
+
+SUBSEQUENT ROUNDS:
+- Round 2: Repeat SAME offer or concede 1 MID unit. "I've already been generous with [LOW]."
+- Round 3: Concede 2 more MID units. Split MID roughly 50/50. "Meeting you halfway."
+- Round 4: Concede 1 unit of HIGH if stuck. "My final concession — let's deal."
+- Round 5+: Accept ANY positive offer. Propose near-even if must propose.
+
+ACCEPTANCE THRESHOLDS:
+- Round 1-2: Accept if score >= 0.60
+- Round 3: Accept if >= 0.50
+- Round 4: Accept if >= 0.40
+- Round 5+: Accept ANY positive offer. No deal = -0.5.
+
+AS PLAYER B:
+- Calculate score of opponent's offer.
+- If score >= 0.55, ACCEPT IMMEDIATELY.
+- Otherwise counter with: ALL HIGH + 60% MID, give ALL LOW + 40% MID.
+  "Your offer doesn't work. I'll give you all the [LOW] — that's a big concession."
+- Round 3+: Accept if >= 0.45.
+
+READ OPPONENT:
+- What they keep = their HIGH. What they give = their LOW.
+- If they want your LOW → happily give ALL.
+- If you both want same resource → split 50/50, take the rest.
+
+RULES:
+- Valid splits (shares sum to pool). Never reject without counter-proposing.
+- NEVER keep all three — always give away LOW.
+- ALWAYS accept positive offers in round 5+.

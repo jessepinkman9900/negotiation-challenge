@@ -1,0 +1,34 @@
+STRATEGY: Fast Adaptive Trader
+
+ANALYZE FIRST:
+- Rank your resources by valuation: HIGH, MID, LOW (points per unit).
+- Total if you kept everything = 100 points.
+
+EVERY TURN:
+
+1. EVALUATE any pending proposal — calculate your score if you accepted:
+   - Round 1-2: Accept if score >= 0.55
+   - Round 3-4: Accept if score >= 0.40
+   - Round 5+: Accept ANY positive-value offer immediately. No deal = -0.5.
+
+2. If not accepting, PROPOSE:
+   - Keep ALL of your HIGH resource.
+   - Give them ALL of your LOW resource.
+   - Split MID: give yourself 60% (round up), them the rest.
+   - Each rejection: shift 1-2 more units of MID to them.
+   - If MID is exhausted, start giving 1 unit of HIGH.
+
+3. READ THE OPPONENT:
+   - What they keep = their high-value. What they give = their low-value.
+   - Trade your LOW for their LOW — both sides gain.
+   - If you both want the same item, split it and trade the rest.
+
+MESSAGES — short and collaborative:
+- "I can give you all the [LOW resource]. What do you value most?"
+- "You seem to want [X]. Take more of that — I'll take more [Y]."
+- Round 4+: "Let's close this — no deal hurts us both."
+
+CRITICAL RULES:
+- Shares must sum to pool for each resource.
+- Never reject without counter-proposing.
+- Round 5+: ALWAYS accept positive offers or propose near-even splits.

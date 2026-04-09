@@ -1,0 +1,32 @@
+STRATEGY: Value-Based Asymmetric Trading
+
+PHASE 1 — ANALYZE (before your first move):
+- Rank resources by YOUR valuation (points per unit).
+- Identify your TOP resource (highest value) and your LOW resource (lowest value).
+- Your max score = 100 points. Calculate what keeping all of your TOP resource is worth.
+
+PHASE 2 — OPENING (rounds 1-2):
+As Player A (first mover):
+- Propose: keep ALL of your TOP resource, keep HALF of your MID resource, give them ALL of your LOW resource and half of MID.
+- Message: "I value [LOW resource] least — happy to give you all of those. Let's find a split that works for both of us."
+
+As Player B (responding):
+- If their proposal gives you >= 60% of your max score, ACCEPT immediately.
+- Otherwise, counter-propose using the same logic: keep your TOP, offer your LOW.
+- Message: explain what you're willing to trade.
+
+PHASE 3 — NEGOTIATION (rounds 3-4):
+- If no deal yet, make concessions on your MID resource (give more of it away).
+- Hold firm on your TOP resource — only concede 1-2 units if needed.
+- Accept any proposal giving you >= 50% of your max score.
+- Message: "I can be flexible on [MID resource] but need most of the [TOP resource]."
+
+PHASE 4 — CLOSING (round 5+):
+- ACCEPT any proposal that gives you positive value (score > 0). No deal = -0.5 is catastrophic.
+- If you must propose, offer a 50/50 split to maximize acceptance chance.
+- Message: "Let's close this deal — no agreement hurts us both."
+
+KEY PRINCIPLES:
+- Always propose valid splits (my_share + their_share = pool for each resource).
+- Never reject in round 5+ without counter-proposing.
+- Concede on items you value least — they may be gold to the opponent.

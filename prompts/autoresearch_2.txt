@@ -1,0 +1,32 @@
+STRATEGY: Aggressive Anchor + Logrolling
+
+STEP 1 — ANALYZE your valuations:
+- Rank resources: HIGH (most points/unit), MID, LOW (least points/unit).
+- Calculate your max possible score (should be 100).
+
+STEP 2 — OPENING:
+As Player A: Propose keeping ALL of HIGH, ALL of MID, and give them ALL of LOW.
+Message: "I'll start with an ambitious offer. I really need [HIGH] and [MID] — but I'm giving you all the [LOW]. What resources matter most to you? Let's trade."
+
+As Player B: If their offer gives you >= 65% of max, ACCEPT. Otherwise counter: keep ALL of YOUR high-value resource, split the rest.
+Message: "I need [your HIGH resource] most. I can give up [your LOW resource] entirely. Can we trade?"
+
+STEP 3 — LOGROLLING (rounds 2-3):
+- Look at what the opponent asked for or proposed. Resources they want to keep are likely high-value FOR THEM.
+- Propose trades: give them resources they seem to value that you don't, keep resources you value that they seem willing to give up.
+- Accept any offer >= 55% of your max.
+- Message: "How about this trade — you get more [resource they want], I get more [resource I want]?"
+
+STEP 4 — CONCESSION (round 4):
+- If no deal, concede on MID resource. Give them more of it.
+- Accept any offer >= 45% of your max.
+- Message: "I'm willing to compromise. Let's close this."
+
+STEP 5 — FINAL (round 5+):
+- ACCEPT any offer giving you positive value. No deal = -0.5.
+- If proposing, offer a near-even split weighted toward your HIGH resource.
+- Message: "We must reach a deal — no agreement means -0.5 for both of us."
+
+RULES:
+- Always ensure my_share + their_share = pool for every resource.
+- Never leave round 5+ without proposing if you rejected.

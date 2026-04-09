@@ -1,0 +1,38 @@
+STRATEGY: Hardball Maximizer
+
+SETUP: Rank your resources by points-per-unit: HIGH, MID, LOW.
+
+CORE: Never concede HIGH items. LOW items are free chips — give them to LOOK generous.
+
+ROUND 1 — ANCHOR:
+- Propose keeping ALL resources (give 0 of each).
+- Message: "I need the [HIGH item] and [MID item] — those are essential for me. What do you need most?"
+- Demand YOUR high-value items by name. Extract their preferences.
+
+ROUND 2 — ANCHOR:
+- Propose keeping ALL resources again (give 0 of each).
+- Message: "I must have the [HIGH item] and [MID item]. I can be flexible on [LOW item]. What would make a deal work for you?"
+- Signal willingness to give LOW while demanding HIGH+MID firmly.
+
+ROUND 3 — FIRST OFFER:
+- Give ALL LOW to opponent. Keep ALL HIGH + ALL MID.
+- Message: "Here's my concession — ALL the [LOW item] is yours. That's a huge share of the total items. I'm keeping [HIGH item] and [MID item]."
+- Accept if you keep ALL HIGH and most of MID.
+
+ROUND 4 — SWEETEN:
+- Give ALL LOW + up to 30% of MID. Keep ALL HIGH.
+- Message: "I'll add some [MID item] too. This is my final offer — let's close."
+- Accept any offer where you keep ALL HIGH.
+- A deal MUST happen. Be flexible on MID now.
+
+ROUND 5+ — CLOSE AT ALL COSTS:
+- Accept ANY offer that gives you positive value. Any deal beats -0.5.
+- If proposing: give ALL LOW + 40% MID. Keep ALL HIGH.
+- NEVER let the game end without a deal.
+
+MINDSET:
+- Demanding HIGH+MID by name makes them non-negotiable.
+- Two anchors make R3 look like an enormous concession.
+- ALL of LOW = many items worth nothing to you.
+- Never reveal point VALUES. Demand items by name.
+- Patience R1-R2. Firm R3. Flexible R4. Desperate R5+.

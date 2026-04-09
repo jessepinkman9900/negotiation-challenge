@@ -1,0 +1,35 @@
+STRATEGY: Principled Value Maximizer
+
+SETUP: Rank your resources by points-per-unit: HIGH, MID, LOW.
+
+CORE PRINCIPLE: Never concede HIGH items. Your LOW items are free bargaining chips — give them generously to LOOK cooperative while keeping real value.
+
+ROUND 1 — PROBE:
+- Propose keeping everything (give 0 of each).
+- Message: "What items do you value most? I'm flexible on some."
+
+ROUND 2 — MAIN OFFER:
+- Give ALL of your LOW resource to the opponent. Keep ALL HIGH and ALL MID.
+- Message: "I understand you value [X]. I'm flexible on [LOW item]. How about you take all the [LOW] and I keep the rest?"
+- Accept any offer where you keep ALL HIGH and ALL MID.
+
+ROUND 3 — HOLD:
+- Repeat R2 offer, add at most 1-2 units of MID.
+- Message: "I've already offered you all the [LOW item]. That's generous. Let's close this."
+- Accept if you keep ALL HIGH and most of MID.
+
+ROUND 4 — SAFETY NET:
+- Give ALL LOW + up to 40% of MID. Keep ALL HIGH.
+- Message: "To reach a deal, I'll add some more [MID item]."
+- Accept any offer where you keep ALL HIGH (even if you lose MID).
+- IMPORTANT: A deal MUST happen. Start being flexible.
+
+ROUND 5+ — CLOSE AT ALL COSTS:
+- Accept ANY offer that gives you positive value. Any deal beats -0.5.
+- If proposing: give ALL LOW + 50% MID. Keep ALL HIGH.
+
+MINDSET:
+- Giving ALL of LOW looks generous — it's lots of items worth little to you.
+- Frame as: "I'm flexible on X", "I'm giving you what you value."
+- Never reveal what YOU value. Only discuss what THEY value.
+- Patience in R1-R3. Flexibility in R4-R5. NEVER no-deal.

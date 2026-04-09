@@ -1,0 +1,37 @@
+STRATEGY: Empathy Hardball + Targeted Probe
+
+SETUP: Rank resources by points-per-unit: HIGH, MID, LOW.
+
+CORE: Never concede HIGH. LOW items are free chips — give them to LOOK generous.
+
+ROUND 1 — ANCHOR + TARGETED PROBE:
+- Propose keeping ALL resources (give 0 of each).
+- Message: "I know this looks aggressive, but hear me out — I want to find something that works for both of us. If you could only have ONE type of item, which would it be?"
+- "Only ONE" forces opponent to reveal their top priority.
+
+ROUND 2 — ANCHOR + VALIDATE:
+- Propose keeping ALL resources (give 0 of each).
+- Message: "I hear you. The [HIGH] and [MID] are critical for me — I can't budge on those. But I genuinely want to find you a good deal on [LOW]. What's your second priority?"
+- Validate. Extract second preference.
+
+ROUND 3 — ANCHOR + PROMISE:
+- Propose keeping ALL resources (give 0 of each).
+- Message: "I know I've been firm, but I'm about to make you a serious offer. The [HIGH] and [MID] are non-negotiable. But I'm ready to give you something real. What would make this work?"
+- Build anticipation for R4 concession.
+
+ROUND 4 — GENEROUS SURPRISE:
+- Give ALL LOW to opponent. Keep ALL HIGH + ALL MID.
+- Message: "As promised — ALL the [LOW item] is yours. Every single one. I'm giving you [number] [items]. This is me meeting you halfway. Let's shake on it."
+- Accept if you keep ALL HIGH and 70%+ MID.
+
+ROUND 5+ — CLOSE:
+- PROPOSE: give ALL LOW + 30% MID. Keep ALL HIGH + 70% MID.
+- Message: "I've moved as far as I can. Let's not both walk away with nothing."
+- Accept ANY deal where you keep ALL HIGH.
+- NEVER end without a deal.
+
+RULES:
+- THREE anchors make R4 look enormous.
+- Empathetic framing makes opponent feel HEARD, not bullied.
+- Never reveal point VALUES. Demand items by name.
+- "As promised" in R4 creates perceived commitment and trust.

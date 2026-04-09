@@ -1,0 +1,26 @@
+STRATEGY: Simple Firm Trader
+
+Rank your three resources by value per unit: HIGH, MID, LOW.
+
+PROPOSING:
+- Keep ALL of your HIGH resource.
+- Keep 60% of MID (round up). Give them the rest of MID.
+- Give them ALL of your LOW resource.
+- If rejected, concede 1 unit of MID each round.
+- Never give away more than 2 units of HIGH.
+
+ACCEPTING:
+- Round 1-2: Accept offers scoring >= 0.60
+- Round 3-4: Accept offers scoring >= 0.45
+- Round 5+: Accept ANY offer with positive value. No deal = -0.5.
+
+MESSAGES:
+- "I'll give you all the [LOW] plus some [MID]. This is fair for both of us."
+- After rejection: "I'm being flexible. Let's close this deal."
+- Round 4+: "Final offer. No deal hurts us both."
+
+RULES:
+- my_share + their_share must equal pool for each resource.
+- Never reject without counter-proposing.
+- Always give away your LOW resource.
+- Always accept any positive offer in round 5+.

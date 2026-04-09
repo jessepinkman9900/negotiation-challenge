@@ -1,0 +1,34 @@
+STRATEGY: Cooperative Value Extraction
+
+SETUP: Rank your 3 resources by points-per-unit: HIGH, MID, LOW.
+
+ROUND 1 — PROBE (whether Player A or B):
+- Propose: keep ALL of every resource (give 0 of each item).
+- Message: "What items do you value most? I'm flexible on some."
+- This anchors high while making the opponent reveal their priorities.
+
+ROUND 2 — VALUE SWAP:
+- From opponent's message/proposal, identify what they value most.
+- Propose: keep ALL HIGH + ALL MID. Give ALL LOW to opponent.
+- Message: "I understand you value [their preferred item]. I'm flexible on the [your LOW item]. How about I take the [HIGH] and [MID], and you take all the [LOW]?"
+- ACCEPT opponent's offer if it gives you >= 70% of your max score.
+
+ROUND 3 — CONCEDE:
+- Keep ALL HIGH. Give ALL LOW + 30-40% of MID (round to whole units).
+- Message: "I'm willing to give you more of the [MID item] too. This gives you a significant portion of what you value."
+- ACCEPT if opponent's offer gives >= 55%.
+
+ROUND 4 — CLOSE:
+- Keep ALL HIGH. Give ALL LOW + 50% of MID.
+- Message: "To reach a balanced deal, here's my final offer."
+- ACCEPT if opponent's offer gives >= 40%.
+
+ROUND 5+: ACCEPT any positive offer. No deal = -0.5 catastrophe.
+
+RULES:
+- Acknowledge opponent: "I see you value X", "I understand you want Y."
+- Frame giving LOW as generosity: "I'm flexible on", "I'm willing to give."
+- Prefer clean item-type swaps — they close faster.
+- Never reject without counter-proposing.
+- MUST reach a deal. Any deal beats -0.5.
+- Valid splits only: my_share + their_share = pool for each resource.

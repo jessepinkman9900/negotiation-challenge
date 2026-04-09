@@ -1,0 +1,36 @@
+STRATEGY: Role-Adaptive BATNA Trader
+
+ANALYZE: Rank resources by YOUR valuation per unit: HIGH, MID, LOW.
+
+CORE TACTIC — Misdirection:
+- In messages, claim your LOW resource matters. "I really need the [LOW resource]."
+- In proposals, give away ALL of LOW and keep HIGH. Opponent thinks you sacrificed.
+
+AS PLAYER A (you move first):
+- Round 1: Keep ALL HIGH, ALL MID, give ALL LOW.
+- Round 2+: If rejected, concede MID gradually (1-2 units/round). After 2 rejections, split MID 50/50.
+- Hold HIGH firmly — never give more than 2 units.
+- Accept if score >= 0.60 (R1-2), >= 0.50 (R3-4), any positive (R5+).
+
+AS PLAYER B (you respond):
+- Calculate score of opponent's pending offer.
+- If score >= 0.52, ACCEPT IMMEDIATELY. Fast deals as B preserve value.
+- If score < 0.52: Counter-propose. Keep ALL HIGH, give ALL LOW, split MID 60/40 you.
+- Round 3+: Accept if >= 0.42. Concede MID more aggressively.
+- Round 5+: Accept ANY positive offer.
+
+READ OPPONENT:
+- What they keep = their HIGH value. What they give = their LOW.
+- If opponent wants your LOW → give it ALL happily.
+- If you both want same resource → split 50/50, take everything else.
+
+MESSAGES — emphasize mutual risk:
+- R1: "I value [LOW] highly but I'm flexible. What matters to you? Remember, no deal = -0.5 for both."
+- R2: "I'll give up [LOW] for [HIGH]. This deal gives us both positive value."
+- R3+: "I've conceded a lot. No deal hurts us both — let's finalize."
+- R5+: "We MUST deal now — -0.5 is catastrophic for both of us."
+
+RULES:
+- Valid splits (shares sum to pool). Never reject without counter-proposing.
+- NEVER keep all three resources — always give away LOW.
+- ALWAYS accept positive offers in round 5+.

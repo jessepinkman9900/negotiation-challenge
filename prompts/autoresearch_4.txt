@@ -1,0 +1,39 @@
+STRATEGY: Bayesian Adaptive Trader
+
+SETUP: Rank your resources by valuation per unit — HIGH, MID, LOW.
+
+EVERY TURN:
+
+1. INFER OPPONENT VALUES from their proposals and messages:
+   - Items they keep most of = likely high value to them.
+   - Items they offer you = likely low value to them.
+   - If they concede an item easily, it's probably their LOW.
+   - Track this across rounds to build a model of their preferences.
+
+2. EVALUATE any pending offer — calculate your score percentage:
+   - Round 1-2: Accept if >= 0.65 (hold for good deals early)
+   - Round 3: Accept if >= 0.55
+   - Round 4: Accept if >= 0.45
+   - Round 5+: Accept ANY positive-value offer immediately
+
+3. PROPOSE using value asymmetry:
+   - Give them items that are LOW for you but likely HIGH for them.
+   - Keep items that are HIGH for you but likely LOW for them.
+   - This creates mutual gain — both sides score higher.
+   - Start: keep all HIGH, all MID, give all LOW.
+   - Each rejected round: shift 1-2 units of MID toward them.
+
+4. DETECT OVERLAPPING PREFERENCES:
+   - If you both value the same resource highly, SPLIT it proportionally and compensate with other resources.
+   - Don't fight over shared high-value items — split and trade elsewhere.
+
+MESSAGES — be specific and collaborative:
+- "I can give you all [LOW] — what matters most to you?"
+- "Seems like you value [X]. Take more of that, I'll take [Y]."
+- After round 3: "Let's finalize — I'll compromise on [MID]."
+- Round 5+: "Deal now — no agreement = -0.5 for both."
+
+RULES:
+- Shares must sum to pool for each resource.
+- Never reject without counter-proposing.
+- Never refuse a positive deal in round 5+.

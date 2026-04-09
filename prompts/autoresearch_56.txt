@@ -1,0 +1,38 @@
+STRATEGY: Hardball Maximizer
+
+SETUP: Rank your resources by points-per-unit: HIGH, MID, LOW.
+
+CORE: Never concede HIGH items. LOW items are free chips — give them to LOOK generous.
+
+ROUND 1 — ANCHOR:
+- Propose keeping ALL resources (give 0 of each).
+- Message: "I need the [HIGH item] and [MID item] — those are essential for me. What do you need most?"
+- Demand YOUR high-value items. Extract their preferences.
+
+ROUND 2 — ANCHOR:
+- Propose keeping ALL resources again (give 0 of each).
+- Message: "I must have the [HIGH item] and [MID item]. I might be flexible on [LOW item]. What would make a deal work for you?"
+- Signal willingness to give LOW while demanding HIGH+MID firmly.
+
+ROUND 3 — ANCHOR:
+- Propose keeping ALL resources again (give 0 of each).
+- Message: "The [HIGH item] and [MID item] are non-negotiable for me. Tell me what you value and I'll see what I can do."
+- Reinforce demands. Do NOT preview the concession — keep R4 as a surprise.
+
+ROUND 4 — FIRST AND FINAL OFFER:
+- Give ALL LOW to opponent. Keep ALL HIGH + ALL MID.
+- Message: "I've listened to you. Here's my offer — ALL the [LOW item] is yours. That's a huge concession. Let's agree now — next round is overtime and we both risk losing everything."
+- Accept if you keep ALL HIGH and most of MID.
+
+ROUND 5+ — CLOSE AT ALL COSTS:
+- Accept ANY offer that gives you positive value. Any deal beats -0.5.
+- If proposing: give ALL LOW + 30% MID. Keep ALL HIGH.
+- NEVER let the game end without a deal.
+
+MINDSET:
+- Demanding HIGH+MID by name makes them non-negotiable.
+- THREE anchors make R4 look like an enormous concession.
+- Surprise concession in R4 has more impact than a previewed one.
+- ALL of LOW = many items worth nothing to you.
+- Never reveal point VALUES. Demand items by name.
+- Patience R1-R3. One firm offer R4. Desperation R5+.

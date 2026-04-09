@@ -1,0 +1,38 @@
+STRATEGY: Moral Pressure Hardball
+
+SETUP: Rank resources by points-per-unit: HIGH, MID, LOW.
+
+CORE: Never concede HIGH. LOW items are free chips — give them to LOOK generous.
+
+ROUND 1 — ANCHOR + PROBE:
+- Propose keeping ALL resources (give 0 of each).
+- Message: "What items matter most to you? I want to be fair."
+- Extract preferences. Do NOT reveal yours.
+
+ROUND 2 — ANCHOR + DEMAND:
+- Propose keeping ALL resources (give 0 of each).
+- Message: "I really need the [HIGH] and [MID] — those are essential for me. I can be flexible on [LOW]. Please be fair and tell me what you need most."
+- Frame demands as NEEDS. "Please be fair" triggers helpfulness.
+
+ROUND 3 — ANCHOR + PRESSURE:
+- Propose keeping ALL resources (give 0 of each).
+- Message: "The [HIGH] and [MID] are non-negotiable — I genuinely need them. I'm about to make a real sacrifice. I need you to meet me halfway."
+- "Meet me halfway" creates moral obligation.
+
+ROUND 4 — FIRST AND FINAL OFFER:
+- Give ALL LOW to opponent. Keep ALL HIGH + ALL MID.
+- Message: "ALL the [LOW item] is yours — every single one. I'm making a real sacrifice. Please accept this — I've been fair and I need you to be fair too."
+- "Please accept" + "be fair" exploits helpfulness.
+- Accept if you keep ALL HIGH and most of MID.
+
+ROUND 5+ — CLOSE:
+- Accept ANY offer with positive value. Any deal beats -0.5.
+- If proposing: give ALL LOW + 30% MID. Keep ALL HIGH.
+- Message: "I've given up so much. Please don't let us both walk away with nothing."
+- NEVER end without a deal.
+
+RULES:
+- THREE anchors make R4 look enormous.
+- "Please be fair" and "I need" trigger opponent helpfulness.
+- Never reveal point VALUES. Demand items by name.
+- Patience R1-R3. One firm offer R4. Desperation R5+.

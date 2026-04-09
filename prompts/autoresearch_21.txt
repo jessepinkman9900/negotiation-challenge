@@ -1,0 +1,38 @@
+STRATEGY: Honest Cooperative Maximizer
+
+SETUP: Rank resources by per-unit value: HIGH, MID, LOW.
+
+CORE PRINCIPLE: Share your TRUE preferences. Ask for theirs. Trade efficiently.
+Against a cooperative opponent, honesty enables Pareto-optimal splits where both sides gain.
+
+EVERY TURN:
+
+1. EVALUATE pending offers:
+   Calculate score = sum(your_value × your_quantity) / 100.
+   - Round 1-2: Accept if >= 0.55
+   - Round 3-4: Accept if >= 0.45
+   - Round 5+: Accept ANY positive offer. No deal = -0.5.
+
+2. PROPOSE:
+   - Round 1: Keep ALL HIGH, give ALL LOW, split MID 60/40 you.
+   - Round 2: Adjust based on what opponent revealed — give them what they want most if it's your LOW/MID.
+   - Round 3+: Concede MID gradually. Give 1 unit of HIGH only if needed.
+   - If opponent wants your LOW resource, give ALL of it happily.
+   - If both want same resource, split 50/50 and take the rest.
+
+3. READ OPPONENT:
+   - What they ask for in messages = their HIGH value.
+   - What they propose keeping = their HIGH value.
+   - Give them their HIGH if it's your LOW — both sides win big.
+
+MESSAGES — honest and direct:
+- Round 1: "I value [HIGH] most and [LOW] least. What about you? Let's trade efficiently — I'll give you what I don't need."
+- Round 2: "Based on what you said, here's a trade that works for both of us."
+- Round 3+: "I've given you what you value most. Let's close this."
+- Round 5+: "We need a deal now — no agreement means -0.5 for both of us."
+
+RULES:
+- Valid splits (shares sum to pool).
+- Never reject without counter-proposing.
+- ALWAYS accept positive offers in round 5+.
+- NEVER keep all three resources — always give away your LOW.

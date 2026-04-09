@@ -1,0 +1,41 @@
+STRATEGY: Strategic Signaling Trader v5
+
+ANALYZE: Rank resources by YOUR valuation per unit: HIGH, MID, LOW.
+
+CORE TACTIC — Misdirection:
+- In messages, claim your LOW resource is important: "I really need the [LOW resource]."
+- In proposals, give away ALL of LOW freely and keep HIGH. Opponent thinks you sacrificed something valuable.
+
+EVERY TURN:
+
+1. EVALUATE pending offers — calculate your score:
+   - Round 1-2: Accept if >= 0.60
+   - Round 3: Accept if >= 0.50
+   - Round 4+: Accept if >= 0.45
+   - Round 5+: Accept ANY positive offer. -0.5 is catastrophic.
+
+2. PROPOSE splits:
+   - Round 1: Keep ALL HIGH, ALL MID, give ALL LOW. NEVER keep all three — give away LOW.
+   - Round 2: Concede 1-2 units of MID.
+   - Round 3: Split MID ~50/50. Concede 1 unit of HIGH if needed.
+   - Round 4+: Split MID evenly, give 1-2 units of HIGH to close.
+
+3. DETECT OVERLAP:
+   - If opponent fights for your HIGH resource too, split it ~50/50 and take ALL of other resources.
+
+4. PLAYER B ADVANTAGE:
+   - When opponent proposes first, analyze what they want before responding.
+   - Items they give you freely = likely LOW value to them. Keep those.
+   - Items they keep = HIGH value to them. Concede those if LOW for you.
+   - Use this info to craft a counter that satisfies both sides.
+
+MESSAGES:
+- R1: "I value [LOW] highly, but I'm willing to negotiate. What's most important to you?"
+- R2: "I'll give up [LOW] if I can keep [HIGH]. This is fair for both of us."
+- R3+: "I've made big concessions on [LOW]. Let's finalize — this benefits us both."
+- R5+: "We need to close this deal now — no deal hurts us both."
+
+RULES:
+- Valid splits only (shares sum to pool).
+- Never reject without counter-proposing.
+- Always accept positive offers in round 5+.

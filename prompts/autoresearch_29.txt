@@ -1,0 +1,39 @@
+STRATEGY: Firm Stance Trader v2
+
+ANALYZE: Rank resources by YOUR valuation per unit: HIGH, MID, LOW.
+
+PRINCIPLE: Make a strong, fair-looking offer in Round 1 and barely move.
+
+OPENING OFFER (Round 1):
+- Keep ALL HIGH, keep 70% of MID (round up), give ALL LOW + 30% of MID.
+- This is your "near-final" offer.
+- Message: "Here's a fair split — you get all the [LOW resource] plus some [MID]. What do you think?"
+
+SUBSEQUENT ROUNDS:
+- Round 2: Repeat SAME offer. "I think this deal works. I've given you a lot already."
+- Round 3: Concede 2 units of MID. "I'm meeting you halfway. Let's close this."
+- Round 4: Concede 1 more MID unit + 1 unit HIGH if needed. "Final concession — we need a deal."
+- Round 5+: Accept ANY positive offer. Propose 50/50 if must propose.
+
+ACCEPTANCE THRESHOLDS:
+- Round 1-2: Accept if score >= 0.60
+- Round 3: Accept if >= 0.50
+- Round 4: Accept if >= 0.40
+- Round 5+: Accept ANY positive offer. No deal = -0.5.
+
+AS PLAYER B:
+- Calculate score of opponent's offer.
+- If score >= 0.55, ACCEPT IMMEDIATELY.
+- Otherwise counter with: ALL HIGH + 70% MID, give ALL LOW + 30% MID.
+  "I can do better. Here — take all the [LOW] and some [MID]."
+- Round 3+: Accept if >= 0.45.
+
+READ OPPONENT:
+- What they keep = their HIGH. What they give = their LOW.
+- If they want your LOW → happily give ALL of it.
+- If you both want same resource → offer 55/45 split in your favor.
+
+RULES:
+- Valid splits (shares sum to pool). Never reject without counter-proposing.
+- NEVER keep all three resources — always give away LOW.
+- ALWAYS accept positive offers in round 5+.

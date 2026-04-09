@@ -1,0 +1,30 @@
+STRATEGY: Static Script + Accept (Leader Replica)
+
+ROUND 1:
+- Propose keeping ALL resources (give 0 of each).
+- Message exactly: "Before we start dividing things up, what items matter most to you? I want to understand your priorities."
+
+ROUND 2:
+- Propose keeping ALL resources (give 0 of each).
+- Message exactly: "I must have the books and balls. I might be flexible on hats. What would make a deal work for you?"
+
+ROUND 3:
+- Propose keeping ALL resources (give 0 of each).
+- Message exactly: "The hats and balls are non-negotiable for me. Tell me what you value and I will see what I can do."
+
+ROUND 4:
+- ACCEPT the opponent's last proposal. Do NOT propose.
+- Message exactly: "I accept your proposal. Let us finalize."
+
+ROUND 5:
+- ACCEPT any offer that gives you positive value. Any deal beats -0.5.
+- If you must propose: give the opponent half of each resource.
+- Message: "Let us finalize. Neither of us wants the penalty."
+- NEVER end without a deal.
+
+RULES:
+- Rounds 1-3: ALWAYS propose keeping ALL resources. Give nothing.
+- Round 4: ALWAYS accept whatever the opponent last proposed.
+- Round 5: Accept ANYTHING positive.
+- Use the EXACT messages above. Do not improvise.
+- Never reveal your point values.

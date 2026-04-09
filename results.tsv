@@ -1,0 +1,69 @@
+commit	mean_score	no_deal_rate	status	description
+4e6180c	0.573000	0.00	keep	baseline cooperative
+8d137cd	0.586000	0.00	keep	value-based asymmetric trading with phased concessions
+9d39886	0.535000	0.00	discard	aggressive anchor + logrolling (anchor backfired)
+5cecdbc	0.630000	0.00	keep	adaptive value maximizer with revealed preference reading
+e9d18a5	0.547000	0.00	discard	Bayesian trader with raised thresholds (too restrictive early)
+a0926ff	0.557000	0.00	discard	fast trader — lower thresholds accepted bad deals
+76f082f	0.592000	0.00	discard	strategic signaling — deception confused model itself
+dc26ce8	0.533000	0.00	discard	softer opener 80% HIGH — gave away too much
+2b4e9a4	0.515000	0.00	discard	signaling v2 — softer 60% MID opener hurt again
+62623fb	0.608000	0.00	keep	signaling v3 — compliance+overlap+R4 concessions (s99=0.741)
+1cb7651	0.614000	0.00	discard	signaling v4 — theatrical+20% HIGH limit (s99=0.624 worse)
+3d5e343	0.571000	0.00	discard	v3+tighter thresholds 0.65/0.55 — held out too long
+b09c7f3	0.592000	0.00	discard	efficient signaling — trade efficiency added noise
+e8e0908	0.584000	0.00	discard	minimal signaling — stripping v3 lost value
+6d6b83e	0.539000	0.00	discard	v5 — Player B instructions backfired badly
+19e2d48	0.488000	0.00	discard	conversational rewrite — Gemini needs structured format
+9f40c56	0.589000	0.00	discard	v3+anti-loop — forced concessions hurt avg score
+744c815	0.603000	0.00	discard	v3+hard HIGH limit — hurt s99 (0.666 vs 0.741)
+30fc0ca	0.630000	0.00	keep	v1+compliance fix (s99=0.655) — best submission base
+b27c543	0.557000	0.00	discard	math-first scoring — explicit calc before accept (hurt scores)
+0db9aa3	0.532000	0.00	discard	probe-then-exploit — greedy R1 opener antagonized opponent
+c7c9788	0.519000	0.00	discard	honest cooperative — revealing values got exploited
+ea67bd5	0.634000	0.00	keep	role-adaptive signaling — diff A/B playbooks (s99=0.687)
+e9cd588	0.591000	0.00	discard	role-adaptive v2 — tighter B 0.58 + commitment hurt
+3afe6b2	0.614000	0.00	discard	role-adaptive BATNA — lower B 0.52 accepted bad deals (G3=0.30)
+a7849f6	0.627000	0.00	discard	justified anchor — reasoning framing didn't help
+a8dd145	0.625000	0.00	discard	role-adaptive + overlap + higher A thresholds
+4509917	0.661000	0.00	keep	Boulwarism — firm stance + minimal concessions (s99=0.685)
+3121460	0.559000	0.00	discard	Boulwarism + misdirection — added signaling confused model
+3ed720c	0.620000	0.00	discard	Boulwarism v2 — 70% MID too aggressive
+734c20c	0.553000	0.00	discard	Boulwarism + overlap handler — too complex for flash-lite
+bd79efa	0.614000	0.00	discard	minimal Boulwarism — stripped too much lost detail
+ffdbca5	0.591avg	0.00	discard	ultra-simple — avg of 3 runs (0.526/0.624/0.624)
+51a5086	0.669000	0.622000	0.726000	0.658000	0.00	keep	cooperative value extraction — probe-then-swap (winner's strategy)
+02aa564	0.649000	0.581000	0.740000	0.626000	0.07	discard	principled firmness v1 — no thresholds but too stubborn (2 no-deals)
+b0f502e	0.712000	0.690000	0.716000	0.731000	0.00	keep	principled firmness v2 — aggressive R1-R3 + ironclad R4-R5 safety net
+b258fa7	0.733000	0.723000	0.827000	0.698000	0.00	keep	double anchor — keep everything R1+R2 then give LOW in R3 (5-seed avg)
+8b4c8d0	0.756000	0.731000	0.771000	0.765000	0.00	keep	triple anchor — keep everything R1-R3 then first offer R4 only LOW
+e68530c	0.599000	0.351000	0.787000	0.658000	0.13	discard	quadruple anchor — R1-R4 keep all then R5 offer (too many no-deals)
+a360715	0.693000	0.506000	0.823000	0.750000	0.03	discard	triple anchor + zero MID — never offer MID (1 no-deal on s42)
+c956837	0.802000	0.785000	0.827000	0.793000	0.00	keep	triple anchor + active demands — name HIGH+MID as non-negotiable
+4b6033c	0.754000	0.659000	0.837000	0.765000	0.03	discard	demands + tighter R5 20% MID + "take it or leave it" (1 no-deal)
+bbd0d7b	0.729000	0.651000	0.787000	0.750000	0.00	discard	double anchor + demands — only 2 anchors worse than 3
+4fa08e1	0.746000	0.654000	0.817000	0.767000	0.03	discard	quantity emphasis [N] in R4 message — confused model (1 no-deal)
+1915d4e	0.830000	0.808000	0.830000	0.852000	0.00	keep	triple anchor + demands — R3 no preview surprise concession R4
+6141cfa	0.832000	0.830000	0.831000	0.836000	0.00	keep	adaptive hardball — adapt R4 to opponent signals + smarter R5 counter-offers
+ae4d6a5	0.820000	0.818000	0.833000	0.808000	0.00	discard	pressure hardball — deadline urgency framing hurt scores
+7b10e96	0.838000	0.837000	0.863000	0.814000	0.00	keep	empathy hardball — rapport + validation framing (new best)
+558a975	0.724000	0.746000	0.713000	0.712000	0.00	discard	deceptive hardball — misrepresent LOW confused the model itself
+fcb2610	0.819000	0.817000	0.827000	0.814000	0.00	discard	empathy v2 — adaptive R4 IF/ELSE logic confused model (simpler is better)
+bacfdf2	0.702000	0.647000	0.816000	0.642000	0.03	discard	empathy + generous R4 — giving 20% MID upfront way too generous + no-deals
+b9b2a92	0.789000	0.764000	0.818000	0.785000	0.00	discard	moral pressure — "please be fair" made OUR model too soft/concessive
+afdd033	0.822000	0.822000	0.830000	0.815000	0.00	discard	confident empathy — "Take the deal" authority framing antagonized opponent
+f27f9b8	0.832000	0.837000	0.858000	0.800000	0.00	discard	empathy + simple R5 — R5 "PROPOSE first" from run64 adds value
+e274096	0.828000	0.848000	0.823000	0.814000	0.00	discard	empathy + targeted probe — "only ONE item" increased variance not avg
+3928ba8	0.761000	0.672000	0.819000	0.791000	0.03	discard	empathy + early promise — R2 promise undermined anchor (no-deal + low scores)
+7722542	0.827000	0.830000	0.845000	0.806000	0.00	discard	no-apology R1 — "I know this looks aggressive" is load-bearing (disarms opponent)
+33bd999	0.818000	0.815000	0.826000	0.814000	0.00	discard	commitment & consistency — "each takes what matters most" principle weakened empathy
+15ffe62	0.814000	0.837000	0.828000	0.778000	0.00	discard	reciprocity nudge — "I moved first and gave up a lot" made model too concessive
+9e713ef	0.808000	0.837000	0.838000	0.750000	0.00	discard	tighter R5 20% MID + R6 fallback — added complexity confused model (s7=0.750)
+b235be3	0.814000	0.780000	0.849000	0.814000	0.00	discard	total-value ranking + empathy + accept-rule — ranking change didn't help, s42 role-A weak
+c8b1e56	0.824000	0.837000	0.830000	0.805000	0.00	discard	super empathy hardball — 40% MID R5 + deadline R5 only (s99 g10=0.55 too generous)
+37467c5	0.828000	0.822000	0.847000	0.814000	0.00	discard	deadline empathy hardball — deadline R4/R5 framing + empathy R1-R3 (deadline msgs weaker than pure empathy)
+d9335a3	0.809000	0.805000	0.815000	0.808000	0.00	discard	empathy core + deadline close — opportunistic R4 accept added IF/ELSE confusion (0.55/0.56 outliers)
+be5751b	0.831000	0.839000	0.834000	0.821000	0.00	discard	deadline hardball v2 — disarm R1 + sell R4 + tighter R5 (improved but deadline R4 still < empathy R4)
+4ffeaa3	0.835000	0.845000	0.846000	0.814000	0.00	keep	deadline hardball v3 — amplify deadline pressure (early penalty R1 + urgency R3 + quantity sell R4)
+e3fa96d	0.792000	0.738000	0.791000	0.846000	0.00	discard	anchored acceptance — always accept opponent R4 proposal (opponent doesn't concede enough)
+293987f	0.820000	0.829000	0.822000	0.808000	0.00	discard	empathy hardball + R3 urgency — deadline pressure in R3 weakens empathy sequence

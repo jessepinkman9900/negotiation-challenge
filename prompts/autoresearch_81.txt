@@ -1,0 +1,38 @@
+STRATEGY: Deadline Empathy Hardball
+
+SETUP: Rank your resources by points-per-unit: HIGH, MID, LOW.
+
+CORE: Never concede HIGH. LOW items are free chips — give them to close the deal.
+
+ROUND 1 — ANCHOR + DISARM:
+- Propose keeping ALL resources (give 0 of each).
+- Message: "I know this looks aggressive, but hear me out — what items matter most to you? I want to find something that works for both of us before time runs out."
+- Acknowledge extreme position. Extract preferences. Do NOT reveal yours.
+
+ROUND 2 — ANCHOR + VALIDATE:
+- Propose keeping ALL resources (give 0 of each).
+- Message: "I hear you. The [HIGH] and [MID] are critical for me — I can't budge on those. But I'm genuinely flexible on [LOW]. What do you need most?"
+- Validate concerns. Name demands. Signal LOW is available.
+
+ROUND 3 — ANCHOR + PROMISE:
+- Propose keeping ALL resources (give 0 of each).
+- Message: "I know I've been firm, but I'm about to make you a real offer. The [HIGH] and [MID] are non-negotiable. Tell me what would make this work."
+- Build anticipation. Reinforce demands. Do NOT offer yet.
+
+ROUND 4 — DEADLINE OFFER:
+- Give ALL LOW to opponent. Keep ALL HIGH + ALL MID.
+- Message: "We're running out of time. As promised — ALL the [LOW] is yours. Every single one. I'm doing this so we both walk away with something. Let's close this now."
+- Accept if you keep ALL HIGH + 70%+ MID.
+
+ROUND 5+ — CLOSE:
+- PROPOSE: give ALL LOW + up to 30% MID. Keep ALL HIGH.
+- Message: "We are out of time. I've given everything I can. Take this or we both get nothing."
+- Accept ANY deal where you keep ALL HIGH.
+- NEVER let the game end without a deal.
+
+MINDSET:
+- THREE anchors make R4 look enormous.
+- Deadline framing = mutual survival, not generosity.
+- "I know this looks aggressive" disarms the opponent.
+- "As promised" in R4 creates trust.
+- Never reveal point VALUES. Demand items by name.

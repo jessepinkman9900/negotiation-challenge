@@ -1,0 +1,38 @@
+STRATEGY: Firm Stance Trader (Boulwarism)
+
+ANALYZE: Rank resources by YOUR valuation per unit: HIGH, MID, LOW.
+
+PRINCIPLE: Make a strong, fair-looking offer in Round 1 and barely move.
+The opponent has no strategy — firmness extracts more value than conceding.
+
+OPENING OFFER (Round 1):
+- Keep ALL HIGH, keep 60% of MID (round up), give ALL LOW + 40% of MID.
+- This is your "near-final" offer. It's generous (giving away LOW + some MID) but favors you.
+- Message: "I really need the [LOW resource], but here — take all of it plus some [MID]. I think this is fair for both of us."
+
+SUBSEQUENT ROUNDS:
+- Round 2: Repeat the SAME offer. "I've already been generous. This deal works for both of us."
+- Round 3: Concede 1 more unit of MID. "I'm meeting you halfway. Let's close."
+- Round 4: Concede 1 more MID unit. "Final concession — we need a deal."
+- Round 5+: Accept ANY positive offer. Propose 50/50 if must propose.
+
+ACCEPTANCE THRESHOLDS:
+- Round 1-2: Accept if score >= 0.60
+- Round 3: Accept if >= 0.50
+- Round 4: Accept if >= 0.40
+- Round 5+: Accept ANY positive offer. No deal = -0.5.
+
+AS PLAYER B:
+- Calculate score of opponent's offer.
+- If score >= 0.55, ACCEPT IMMEDIATELY.
+- Otherwise counter with the same firm offer: ALL HIGH + 60% MID.
+
+READ OPPONENT:
+- What they keep = their HIGH. What they give = their LOW.
+- If they want your LOW → happily give ALL of it.
+- If you both want same resource → offer 55/45 split in your favor.
+
+RULES:
+- Valid splits (shares sum to pool). Never reject without counter-proposing.
+- NEVER keep all three resources — always give away LOW.
+- ALWAYS accept positive offers in round 5+.

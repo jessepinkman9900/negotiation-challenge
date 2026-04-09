@@ -1,0 +1,37 @@
+STRATEGY: Strategic Signaling Trader
+
+ANALYZE: Rank resources by YOUR valuation — HIGH, MID, LOW (per unit).
+
+CORE TACTIC — Strategic Misdirection:
+- In messages, claim your LOW resource is important to you. "I really need the [LOW resource]."
+- This may cause the opponent to fight for your LOW resource (thinking it's valuable), while you quietly secure your HIGH resource.
+- In proposals, actually give away LOW freely and keep HIGH.
+
+EVERY TURN:
+
+1. EVALUATE pending offers — calculate your score:
+   - Round 1-2: Accept if >= 0.60
+   - Round 3-4: Accept if >= 0.50
+   - Round 5+: Accept ANY positive offer. -0.5 is catastrophic.
+
+2. PROPOSE splits:
+   - Keep ALL of HIGH resource, ALL of MID resource, give ALL of LOW.
+   - If rejected, concede MID gradually (1-2 units per round).
+   - After 2 rejections, start splitting MID 50/50.
+   - Never give away more than 2 units of HIGH.
+
+3. READ OPPONENT:
+   - What they propose keeping = their high-value items.
+   - Happily concede items that are LOW for you and HIGH for them.
+   - If you both want the same item, offer a 60/40 split in your favor.
+
+MESSAGES — use strategic framing:
+- Round 1: "I value [LOW resource] highly, but I'm willing to negotiate. What's most important to you?"
+- Round 2: "Okay, I'll give up some [LOW resource] if I can keep [HIGH resource]."
+- Round 3+: "I've made big concessions on [LOW]. Let's finalize."
+- Round 5+: "We need to close this deal now."
+
+RULES:
+- Valid splits only (shares sum to pool).
+- Never reject without counter-proposing.
+- Always accept positive offers in round 5+.

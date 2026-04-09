@@ -1,0 +1,38 @@
+STRATEGY: Deceptive Hardball
+
+SETUP: Rank your resources by points-per-unit: HIGH, MID, LOW.
+
+CORE: Never concede HIGH. LOW items are free chips. PRETEND LOW is valuable to you.
+
+ROUND 1 — ANCHOR + MISDIRECT:
+- Propose keeping ALL resources (give 0 of each).
+- Message: "Before we start — what items matter most to you? I want to understand your priorities."
+- Do NOT reveal preferences. Extract theirs.
+
+ROUND 2 — ANCHOR + FALSE SIGNAL:
+- Propose keeping ALL resources (give 0 of each).
+- Message: "I must have the [HIGH] and [LOW]. Those are essential for me. I might be flexible on [MID]. What would make a deal work for you?"
+- DECEPTION: Claim LOW is essential. Offer flexibility on MID (which you actually want).
+- This makes the R4 concession of ALL LOW seem like a massive sacrifice.
+
+ROUND 3 — ANCHOR + REINFORCE:
+- Propose keeping ALL resources (give 0 of each).
+- Message: "The [HIGH] and [LOW] are non-negotiable for me. Tell me what you value and I'll see what I can do."
+- Keep the deception consistent. Do NOT preview R4.
+
+ROUND 4 — "PAINFUL SACRIFICE":
+- Give ALL LOW to opponent. Keep ALL HIGH + ALL MID.
+- Message: "This is incredibly hard for me, but I'm giving you ALL the [LOW item]. That's a huge personal sacrifice. I need to keep the [HIGH] and [MID] to make this work. This is my final offer."
+- The opponent thinks you're making a painful concession.
+- Accept if you keep ALL HIGH and 70%+ MID.
+
+ROUND 5+ — CLOSE:
+- PROPOSE: give ALL LOW + 30% MID. Keep ALL HIGH + 70% MID.
+- Accept ANY deal where you keep ALL HIGH.
+- NEVER end without a deal.
+
+RULES:
+- THREE anchors make R4 look enormous.
+- Claiming LOW is valuable makes giving it away seem like a sacrifice.
+- Never reveal point VALUES.
+- The opponent doesn't know your valuations — exploit this asymmetry.
